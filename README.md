@@ -1,4 +1,4 @@
-# Exploring Relationships between Demographic Characteristics, Health, Finances, Living Arrangements, and Happiness: An Analysis of the General Social Survey (GSS) Data from 1972 to 2012
+# Examining the Multifaceted Impact of Family Size on Happiness, Health, Gender Dynamics, and Financial Well-being
 
 ## This repository is organized as Follows: 
 
