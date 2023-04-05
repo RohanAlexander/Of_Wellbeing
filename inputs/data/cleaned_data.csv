@@ -1,0 +1,3048 @@
+year,sex,babies,health,finance_satified,happy,happy_score,health_score,finance_score,babies_number
+1972,male,2,fair,pretty well satisfied,very happy,3,2,3,2
+1972,female,1,good,not satisfied at all,very happy,3,3,4,1
+1972,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1972,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,male,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1972,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1972,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,male,1,good,more or less satisfied,very happy,3,3,2,1
+1972,female,1,good,more or less satisfied,very happy,3,3,2,1
+1972,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1972,male,1,poor,not satisfied at all,not too happy,0,1,4,1
+1972,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1972,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1972,male,1,good,not satisfied at all,very happy,3,3,4,1
+1972,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1972,female,2,good,not satisfied at all,very happy,3,3,4,2
+1972,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1972,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1972,female,1,good,more or less satisfied,very happy,3,3,2,1
+1972,male,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1972,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,male,1,good,more or less satisfied,very happy,3,3,2,1
+1972,male,3,good,not satisfied at all,very happy,3,3,4,3
+1972,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,female,3,good,not satisfied at all,very happy,3,3,4,3
+1972,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1972,male,1,good,more or less satisfied,very happy,3,3,2,1
+1972,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1972,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1972,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1972,female,2,good,not satisfied at all,very happy,3,3,4,2
+1972,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1972,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1972,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,male,2,good,more or less satisfied,not too happy,0,3,2,2
+1972,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1972,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1972,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,female,3,fair,pretty well satisfied,very happy,3,2,3,3
+1972,male,2,good,not satisfied at all,very happy,3,3,4,2
+1972,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1972,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1972,female,4,good,more or less satisfied,very happy,3,3,2,4
+1972,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,male,3,good,more or less satisfied,very happy,3,3,2,3
+1972,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,2,excellent,pretty well satisfied,not too happy,0,4,3,2
+1972,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1972,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1972,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1972,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,2,good,more or less satisfied,very happy,3,3,2,2
+1972,female,3,excellent,not satisfied at all,very happy,3,4,4,3
+1972,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1972,male,1,good,more or less satisfied,very happy,3,3,2,1
+1972,male,1,fair,pretty well satisfied,very happy,3,2,3,1
+1972,male,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1972,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1972,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,male,2,good,more or less satisfied,very happy,3,3,2,2
+1972,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1972,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,female,2,poor,not satisfied at all,not too happy,0,1,4,2
+1972,female,3,good,not satisfied at all,not too happy,0,3,4,3
+1972,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1972,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1972,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,male,2,good,more or less satisfied,very happy,3,3,2,2
+1972,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,1,good,more or less satisfied,very happy,3,3,2,1
+1972,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1972,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+1972,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,male,1,fair,more or less satisfied,very happy,3,2,2,1
+1972,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1972,male,1,fair,not satisfied at all,very happy,3,2,4,1
+1972,female,1,poor,more or less satisfied,not too happy,0,1,2,1
+1972,female,1,good,more or less satisfied,very happy,3,3,2,1
+1972,female,4,excellent,not satisfied at all,not too happy,0,4,4,4
+1972,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+1972,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1972,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1972,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1972,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1972,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1972,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1972,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1972,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1972,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1972,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1972,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1972,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,female,2,good,not satisfied at all,very happy,3,3,4,2
+1972,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,male,1,good,more or less satisfied,very happy,3,3,2,1
+1972,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1972,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1972,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1972,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1972,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1972,male,3,good,not satisfied at all,not too happy,0,3,4,3
+1972,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1972,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1972,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1972,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,male,1,good,pretty well satisfied,not too happy,0,3,3,1
+1972,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+1972,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1972,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1972,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1972,female,3,excellent,more or less satisfied,very happy,3,4,2,3
+1972,male,1,poor,not satisfied at all,not too happy,0,1,4,1
+1972,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1972,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,male,3,excellent,not satisfied at all,very happy,3,4,4,3
+1972,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1972,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,female,2,fair,pretty well satisfied,not too happy,0,2,3,2
+1972,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1972,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1972,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1972,male,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1972,male,1,good,more or less satisfied,very happy,3,3,2,1
+1972,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1972,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1972,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1972,male,2,fair,more or less satisfied,not too happy,0,2,2,2
+1972,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1972,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,2,good,not satisfied at all,very happy,3,3,4,2
+1972,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1972,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+1972,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1972,male,4,excellent,not satisfied at all,not too happy,0,4,4,4
+1972,female,1,good,not satisfied at all,very happy,3,3,4,1
+1972,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+1972,female,3,good,not satisfied at all,very happy,3,3,4,3
+1972,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1972,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1972,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1972,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1972,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1972,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1972,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1972,male,1,good,more or less satisfied,very happy,3,3,2,1
+1972,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1972,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1972,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1972,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1972,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1972,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,male,4,excellent,not satisfied at all,not too happy,0,4,4,4
+1972,male,3,excellent,not satisfied at all,not too happy,0,4,4,3
+1972,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1972,male,3,good,more or less satisfied,not too happy,0,3,2,3
+1972,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,3,poor,not satisfied at all,not too happy,0,1,4,3
+1973,female,2,good,not satisfied at all,very happy,3,3,4,2
+1973,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1973,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1973,female,2,good,more or less satisfied,very happy,3,3,2,2
+1973,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1973,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1973,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1973,female,1,good,more or less satisfied,very happy,3,3,2,1
+1973,male,2,fair,more or less satisfied,not too happy,0,2,2,2
+1973,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1973,female,2,good,more or less satisfied,very happy,3,3,2,2
+1973,female,2,good,not satisfied at all,very happy,3,3,4,2
+1973,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+1973,female,3,fair,pretty well satisfied,not too happy,0,2,3,3
+1973,female,4,fair,not satisfied at all,not too happy,0,2,4,4
+1973,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+1973,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1973,male,1,good,not satisfied at all,very happy,3,3,4,1
+1973,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,2,good,more or less satisfied,very happy,3,3,2,2
+1973,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1973,male,2,good,not satisfied at all,very happy,3,3,4,2
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1973,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,male,1,fair,more or less satisfied,very happy,3,2,2,1
+1973,female,2,fair,not satisfied at all,very happy,3,2,4,2
+1973,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,male,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1973,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1973,female,2,good,more or less satisfied,very happy,3,3,2,2
+1973,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1973,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1973,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1973,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1973,male,2,good,not satisfied at all,very happy,3,3,4,2
+1973,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1973,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1973,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1973,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1973,female,1,good,not satisfied at all,very happy,3,3,4,1
+1973,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1973,male,2,good,not satisfied at all,very happy,3,3,4,2
+1973,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1973,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1973,female,3,fair,not satisfied at all,not too happy,0,2,4,3
+1973,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1973,female,3,excellent,not satisfied at all,very happy,3,4,4,3
+1973,female,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1973,female,3,good,pretty well satisfied,very happy,3,3,3,3
+1973,female,2,good,more or less satisfied,very happy,3,3,2,2
+1973,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1973,male,1,poor,more or less satisfied,not too happy,0,1,2,1
+1973,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1973,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1973,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1973,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1973,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1973,female,2,good,more or less satisfied,very happy,3,3,2,2
+1973,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1973,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1973,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1973,male,1,good,more or less satisfied,very happy,3,3,2,1
+1973,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1973,female,1,good,more or less satisfied,very happy,3,3,2,1
+1973,female,1,good,more or less satisfied,very happy,3,3,2,1
+1973,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1973,male,3,fair,not satisfied at all,not too happy,0,2,4,3
+1973,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+1973,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1973,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1973,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1973,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1973,female,1,good,more or less satisfied,very happy,3,3,2,1
+1973,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1973,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1973,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1973,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1973,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1973,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1973,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1973,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1973,female,2,fair,more or less satisfied,very happy,3,2,2,2
+1973,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1973,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1973,female,2,good,more or less satisfied,very happy,3,3,2,2
+1973,female,1,poor,more or less satisfied,not too happy,0,1,2,1
+1973,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1973,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,1,good,more or less satisfied,very happy,3,3,2,1
+1973,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1973,female,3,fair,more or less satisfied,not too happy,0,2,2,3
+1973,male,2,good,more or less satisfied,very happy,3,3,2,2
+1973,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1973,male,1,poor,pretty well satisfied,not too happy,0,1,3,1
+1973,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1973,male,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1973,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1973,female,2,good,more or less satisfied,very happy,3,3,2,2
+1973,male,1,fair,not satisfied at all,very happy,3,2,4,1
+1973,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1973,female,3,good,more or less satisfied,very happy,3,3,2,3
+1973,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1973,male,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1973,male,1,good,more or less satisfied,very happy,3,3,2,1
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,2,good,not satisfied at all,very happy,3,3,4,2
+1973,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1973,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1973,female,1,good,more or less satisfied,very happy,3,3,2,1
+1973,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1973,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1973,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1973,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1973,female,2,poor,not satisfied at all,not too happy,0,1,4,2
+1973,male,1,fair,pretty well satisfied,very happy,3,2,3,1
+1973,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1973,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1973,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1973,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1973,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1973,male,3,fair,more or less satisfied,very happy,3,2,2,3
+1973,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1973,female,3,fair,pretty well satisfied,not too happy,0,2,3,3
+1973,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1973,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1973,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1973,male,1,fair,not satisfied at all,very happy,3,2,4,1
+1973,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1973,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1973,male,1,good,more or less satisfied,very happy,3,3,2,1
+1973,female,1,good,more or less satisfied,very happy,3,3,2,1
+1973,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1973,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1973,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1973,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1973,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1973,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+1973,male,2,fair,more or less satisfied,not too happy,0,2,2,2
+1973,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+1973,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1973,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1973,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1973,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1973,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1973,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1973,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1973,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1973,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1974,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1974,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1974,female,2,good,more or less satisfied,very happy,3,3,2,2
+1974,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1974,male,2,poor,not satisfied at all,very happy,3,1,4,2
+1974,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1974,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1974,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1974,male,2,fair,more or less satisfied,not too happy,0,2,2,2
+1974,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1974,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1974,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,3,fair,not satisfied at all,not too happy,0,2,4,3
+1974,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1974,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,3,fair,not satisfied at all,not too happy,0,2,4,3
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1974,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1974,male,2,good,more or less satisfied,not too happy,0,3,2,2
+1974,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1974,female,2,excellent,pretty well satisfied,not too happy,0,4,3,2
+1974,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1974,male,1,poor,more or less satisfied,not too happy,0,1,2,1
+1974,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1974,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1974,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1974,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1974,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1974,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1974,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,male,1,good,more or less satisfied,very happy,3,3,2,1
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1974,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1974,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1974,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,male,3,excellent,not satisfied at all,very happy,3,4,4,3
+1974,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1974,male,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,2,fair,pretty well satisfied,very happy,3,2,3,2
+1974,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1974,male,2,good,pretty well satisfied,not too happy,0,3,3,2
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,2,good,not satisfied at all,very happy,3,3,4,2
+1974,female,1,good,not satisfied at all,very happy,3,3,4,1
+1974,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1974,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1974,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1974,female,2,good,more or less satisfied,very happy,3,3,2,2
+1974,female,2,good,not satisfied at all,very happy,3,3,4,2
+1974,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1974,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1974,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1974,male,4,excellent,pretty well satisfied,very happy,3,4,3,4
+1974,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,male,2,good,not satisfied at all,not too happy,0,3,4,2
+1974,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1974,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1974,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1974,female,2,good,more or less satisfied,very happy,3,3,2,2
+1974,female,3,good,not satisfied at all,not too happy,0,3,4,3
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,male,2,good,more or less satisfied,very happy,3,3,2,2
+1974,male,1,good,more or less satisfied,very happy,3,3,2,1
+1974,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1974,female,3,good,not satisfied at all,not too happy,0,3,4,3
+1974,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1974,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1974,female,2,good,not satisfied at all,very happy,3,3,4,2
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1974,female,1,good,not satisfied at all,very happy,3,3,4,1
+1974,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1974,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1974,male,1,good,not satisfied at all,very happy,3,3,4,1
+1974,male,1,good,not satisfied at all,very happy,3,3,4,1
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1974,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1974,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1974,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+1974,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1974,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1974,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1974,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1974,female,1,good,more or less satisfied,very happy,3,3,2,1
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1974,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1974,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1974,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1974,male,1,fair,pretty well satisfied,not too happy,0,2,3,1
+1974,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1974,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1974,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1974,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1974,female,3,fair,not satisfied at all,not too happy,0,2,4,3
+1974,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1974,female,2,poor,not satisfied at all,not too happy,0,1,4,2
+1974,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,2,good,more or less satisfied,very happy,3,3,2,2
+1974,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1974,male,1,good,more or less satisfied,very happy,3,3,2,1
+1974,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1974,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1974,male,1,fair,pretty well satisfied,very happy,3,2,3,1
+1974,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1974,female,3,fair,more or less satisfied,not too happy,0,2,2,3
+1974,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1974,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1974,male,1,good,not satisfied at all,very happy,3,3,4,1
+1974,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1974,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1974,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,male,2,good,more or less satisfied,very happy,3,3,2,2
+1974,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1974,male,1,good,more or less satisfied,very happy,3,3,2,1
+1974,male,3,excellent,pretty well satisfied,not too happy,0,4,3,3
+1974,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1974,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1975,male,1,good,more or less satisfied,very happy,3,3,2,1
+1975,female,1,good,more or less satisfied,very happy,3,3,2,1
+1975,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1975,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1975,male,1,good,more or less satisfied,very happy,3,3,2,1
+1975,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,female,1,good,more or less satisfied,very happy,3,3,2,1
+1975,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1975,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1975,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1975,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1975,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,male,3,good,pretty well satisfied,not too happy,0,3,3,3
+1975,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1975,female,1,good,more or less satisfied,very happy,3,3,2,1
+1975,female,2,good,more or less satisfied,not too happy,0,3,2,2
+1975,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1975,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,male,1,fair,more or less satisfied,very happy,3,2,2,1
+1975,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1975,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1975,male,1,good,more or less satisfied,very happy,3,3,2,1
+1975,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1975,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1975,female,2,good,more or less satisfied,very happy,3,3,2,2
+1975,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1975,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1975,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1975,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1975,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1975,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1975,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1975,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1975,male,2,good,not satisfied at all,very happy,3,3,4,2
+1975,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1975,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1975,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1975,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1975,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,male,1,good,more or less satisfied,very happy,3,3,2,1
+1975,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1975,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1975,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1975,male,1,good,not satisfied at all,very happy,3,3,4,1
+1975,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,female,2,fair,not satisfied at all,very happy,3,2,4,2
+1975,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,male,1,fair,pretty well satisfied,very happy,3,2,3,1
+1975,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1975,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1975,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1975,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,female,2,fair,more or less satisfied,very happy,3,2,2,2
+1975,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1975,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1975,male,1,good,not satisfied at all,very happy,3,3,4,1
+1975,male,1,fair,not satisfied at all,very happy,3,2,4,1
+1975,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,female,1,good,more or less satisfied,very happy,3,3,2,1
+1975,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1975,male,1,fair,pretty well satisfied,very happy,3,2,3,1
+1975,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1975,female,1,good,more or less satisfied,very happy,3,3,2,1
+1975,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1975,female,2,fair,not satisfied at all,very happy,3,2,4,2
+1975,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1975,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1975,male,1,good,more or less satisfied,very happy,3,3,2,1
+1975,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1975,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1975,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,male,1,fair,more or less satisfied,very happy,3,2,2,1
+1975,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1975,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1975,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1975,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1975,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1975,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1975,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1975,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1975,male,1,good,more or less satisfied,very happy,3,3,2,1
+1975,male,1,good,more or less satisfied,very happy,3,3,2,1
+1975,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1975,female,1,good,more or less satisfied,very happy,3,3,2,1
+1975,male,1,fair,not satisfied at all,very happy,3,2,4,1
+1975,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1975,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1975,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1975,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1975,male,2,good,more or less satisfied,very happy,3,3,2,2
+1975,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,male,1,good,more or less satisfied,very happy,3,3,2,1
+1975,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,male,3,excellent,not satisfied at all,very happy,3,4,4,3
+1975,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1975,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1975,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1975,female,3,good,pretty well satisfied,very happy,3,3,3,3
+1975,male,1,good,more or less satisfied,very happy,3,3,2,1
+1975,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1975,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1975,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1975,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1975,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1975,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1975,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1975,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1975,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1975,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1975,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1975,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1975,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1975,female,3,good,not satisfied at all,very happy,3,3,4,3
+1976,male,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1976,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1976,female,1,good,more or less satisfied,very happy,3,3,2,1
+1976,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1976,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1976,male,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1976,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1976,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1976,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,male,2,good,not satisfied at all,not too happy,0,3,4,2
+1976,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1976,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1976,male,2,good,not satisfied at all,very happy,3,3,4,2
+1976,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1976,male,3,excellent,not satisfied at all,not too happy,0,4,4,3
+1976,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1976,male,1,poor,not satisfied at all,not too happy,0,1,4,1
+1976,male,2,good,more or less satisfied,not too happy,0,3,2,2
+1976,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1976,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1976,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1976,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1976,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1976,female,2,fair,more or less satisfied,very happy,3,2,2,2
+1976,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1976,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1976,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1976,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1976,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1976,male,1,good,more or less satisfied,very happy,3,3,2,1
+1976,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1976,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1976,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,female,3,good,pretty well satisfied,very happy,3,3,3,3
+1976,female,1,good,more or less satisfied,very happy,3,3,2,1
+1976,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1976,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1976,female,1,good,more or less satisfied,very happy,3,3,2,1
+1976,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1976,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1976,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1976,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,male,3,excellent,not satisfied at all,very happy,3,4,4,3
+1976,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1976,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1976,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+1976,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1976,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1976,female,1,good,more or less satisfied,very happy,3,3,2,1
+1976,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1976,female,1,poor,not satisfied at all,very happy,3,1,4,1
+1976,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1976,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1976,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1976,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1976,male,1,poor,more or less satisfied,very happy,3,1,2,1
+1976,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1976,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1976,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,female,2,good,not satisfied at all,very happy,3,3,4,2
+1976,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1976,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1976,female,3,good,more or less satisfied,very happy,3,3,2,3
+1976,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1976,female,3,excellent,more or less satisfied,very happy,3,4,2,3
+1976,male,3,excellent,more or less satisfied,not too happy,0,4,2,3
+1976,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1976,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1976,male,2,fair,not satisfied at all,very happy,3,2,4,2
+1976,female,3,good,not satisfied at all,very happy,3,3,4,3
+1976,male,1,good,more or less satisfied,very happy,3,3,2,1
+1976,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1976,male,4,excellent,pretty well satisfied,very happy,3,4,3,4
+1976,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1976,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1976,female,1,good,more or less satisfied,very happy,3,3,2,1
+1976,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+1976,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1976,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1976,female,3,fair,more or less satisfied,very happy,3,2,2,3
+1976,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1976,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1976,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1976,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1976,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1976,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1976,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,female,2,good,not satisfied at all,very happy,3,3,4,2
+1976,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1976,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1976,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,female,1,good,more or less satisfied,very happy,3,3,2,1
+1976,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,female,1,good,more or less satisfied,very happy,3,3,2,1
+1976,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,male,4,good,more or less satisfied,very happy,3,3,2,4
+1976,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1976,male,3,good,pretty well satisfied,very happy,3,3,3,3
+1976,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1976,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1976,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1976,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1976,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+1976,female,2,good,not satisfied at all,very happy,3,3,4,2
+1976,male,2,good,not satisfied at all,very happy,3,3,4,2
+1976,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1976,female,1,good,not satisfied at all,very happy,3,3,4,1
+1976,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1976,female,1,good,more or less satisfied,very happy,3,3,2,1
+1976,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1976,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1976,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1976,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1976,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1976,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1976,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1976,female,1,good,more or less satisfied,very happy,3,3,2,1
+1976,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1976,male,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1976,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1976,female,1,poor,not satisfied at all,very happy,3,1,4,1
+1976,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1976,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1976,female,1,good,more or less satisfied,very happy,3,3,2,1
+1976,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1976,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,male,1,good,more or less satisfied,very happy,3,3,2,1
+1976,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1976,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1976,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1976,female,1,good,not satisfied at all,very happy,3,3,4,1
+1977,female,1,good,not satisfied at all,very happy,3,3,4,1
+1977,male,1,good,more or less satisfied,very happy,3,3,2,1
+1977,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1977,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1977,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1977,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+1977,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1977,female,1,good,not satisfied at all,very happy,3,3,4,1
+1977,female,3,excellent,more or less satisfied,very happy,3,4,2,3
+1977,male,1,good,more or less satisfied,very happy,3,3,2,1
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1977,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1977,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1977,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1977,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1977,female,3,fair,pretty well satisfied,very happy,3,2,3,3
+1977,female,2,good,more or less satisfied,very happy,3,3,2,2
+1977,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1977,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1977,female,2,good,not satisfied at all,very happy,3,3,4,2
+1977,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1977,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1977,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1977,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1977,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1977,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1977,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1977,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1977,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1977,female,3,excellent,not satisfied at all,not too happy,0,4,4,3
+1977,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1977,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1977,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1977,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,male,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1977,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1977,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1977,female,1,good,more or less satisfied,very happy,3,3,2,1
+1977,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,male,3,good,pretty well satisfied,very happy,3,3,3,3
+1977,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1977,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1977,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1977,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1977,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,male,1,fair,more or less satisfied,very happy,3,2,2,1
+1977,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,male,2,good,more or less satisfied,not too happy,0,3,2,2
+1977,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1977,male,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1977,male,3,excellent,not satisfied at all,not too happy,0,4,4,3
+1977,male,1,good,more or less satisfied,very happy,3,3,2,1
+1977,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1977,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1977,male,1,good,more or less satisfied,very happy,3,3,2,1
+1977,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1977,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1977,male,1,good,more or less satisfied,very happy,3,3,2,1
+1977,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1977,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+1977,female,1,good,not satisfied at all,very happy,3,3,4,1
+1977,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,male,1,good,more or less satisfied,very happy,3,3,2,1
+1977,male,1,good,more or less satisfied,very happy,3,3,2,1
+1977,male,1,fair,pretty well satisfied,very happy,3,2,3,1
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1977,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1977,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1977,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1977,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1977,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1977,female,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1977,female,1,poor,more or less satisfied,not too happy,0,1,2,1
+1977,male,1,fair,not satisfied at all,very happy,3,2,4,1
+1977,female,1,good,more or less satisfied,very happy,3,3,2,1
+1977,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1977,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1977,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1977,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1977,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1977,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1977,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,female,1,good,not satisfied at all,very happy,3,3,4,1
+1977,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1977,male,1,good,more or less satisfied,very happy,3,3,2,1
+1977,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1977,female,1,good,more or less satisfied,very happy,3,3,2,1
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1977,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1977,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1977,male,1,good,more or less satisfied,very happy,3,3,2,1
+1977,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+1977,female,1,good,more or less satisfied,very happy,3,3,2,1
+1977,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1977,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1977,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1977,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1977,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1977,male,1,poor,not satisfied at all,very happy,3,1,4,1
+1977,female,1,good,more or less satisfied,very happy,3,3,2,1
+1977,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1977,male,1,fair,pretty well satisfied,very happy,3,2,3,1
+1977,male,1,poor,not satisfied at all,not too happy,0,1,4,1
+1977,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1980,female,1,good,not satisfied at all,very happy,3,3,4,1
+1980,male,1,fair,pretty well satisfied,not too happy,0,2,3,1
+1980,male,1,good,not satisfied at all,very happy,3,3,4,1
+1980,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1980,female,3,good,not satisfied at all,not too happy,0,3,4,3
+1980,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1980,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1980,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1980,male,1,good,more or less satisfied,very happy,3,3,2,1
+1980,female,3,good,more or less satisfied,very happy,3,3,2,3
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1980,male,1,good,more or less satisfied,very happy,3,3,2,1
+1980,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1980,male,3,excellent,not satisfied at all,very happy,3,4,4,3
+1980,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1980,female,3,fair,more or less satisfied,very happy,3,2,2,3
+1980,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1980,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1980,male,2,good,more or less satisfied,not too happy,0,3,2,2
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1980,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1980,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1980,male,1,good,not satisfied at all,very happy,3,3,4,1
+1980,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1980,male,3,good,pretty well satisfied,very happy,3,3,3,3
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1980,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1980,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1980,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1980,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1980,male,1,poor,not satisfied at all,not too happy,0,1,4,1
+1980,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1980,female,3,good,not satisfied at all,not too happy,0,3,4,3
+1980,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1980,male,1,good,more or less satisfied,very happy,3,3,2,1
+1980,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1980,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1980,male,2,fair,more or less satisfied,not too happy,0,2,2,2
+1980,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1980,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1980,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1980,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1980,male,1,good,pretty well satisfied,not too happy,0,3,3,1
+1980,female,1,good,more or less satisfied,very happy,3,3,2,1
+1980,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1980,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1980,female,1,good,not satisfied at all,very happy,3,3,4,1
+1980,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1980,male,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1980,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1980,male,2,good,not satisfied at all,very happy,3,3,4,2
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,2,good,not satisfied at all,very happy,3,3,4,2
+1980,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1980,female,2,good,more or less satisfied,very happy,3,3,2,2
+1980,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1980,female,1,good,more or less satisfied,very happy,3,3,2,1
+1980,male,2,fair,not satisfied at all,very happy,3,2,4,2
+1980,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1980,female,2,good,not satisfied at all,very happy,3,3,4,2
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1980,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1980,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1980,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1980,female,3,fair,more or less satisfied,very happy,3,2,2,3
+1980,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1980,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1980,female,2,good,more or less satisfied,very happy,3,3,2,2
+1980,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1980,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1980,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1980,female,2,good,more or less satisfied,not too happy,0,3,2,2
+1980,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1980,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1980,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1980,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1980,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1980,male,1,good,more or less satisfied,very happy,3,3,2,1
+1980,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1980,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1980,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1980,male,1,fair,more or less satisfied,very happy,3,2,2,1
+1980,male,1,good,more or less satisfied,very happy,3,3,2,1
+1980,male,2,good,more or less satisfied,very happy,3,3,2,2
+1980,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1980,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1980,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1980,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1980,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1980,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1980,male,1,good,not satisfied at all,very happy,3,3,4,1
+1980,female,1,good,not satisfied at all,very happy,3,3,4,1
+1980,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1980,female,1,good,more or less satisfied,very happy,3,3,2,1
+1980,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1982,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1982,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1982,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1982,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1982,male,1,good,more or less satisfied,very happy,3,3,2,1
+1982,male,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1982,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1982,female,3,fair,more or less satisfied,very happy,3,2,2,3
+1982,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1982,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1982,male,1,fair,more or less satisfied,very happy,3,2,2,1
+1982,female,1,good,not satisfied at all,very happy,3,3,4,1
+1982,female,1,fair,pretty well satisfied,not too happy,0,2,3,1
+1982,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1982,female,1,good,more or less satisfied,very happy,3,3,2,1
+1982,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1982,female,2,good,more or less satisfied,very happy,3,3,2,2
+1982,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,male,1,good,more or less satisfied,very happy,3,3,2,1
+1982,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1982,male,2,good,not satisfied at all,not too happy,0,3,4,2
+1982,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1982,male,1,good,more or less satisfied,very happy,3,3,2,1
+1982,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1982,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1982,male,3,good,not satisfied at all,very happy,3,3,4,3
+1982,female,2,good,not satisfied at all,very happy,3,3,4,2
+1982,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1982,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1982,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1982,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1982,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1982,male,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1982,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1982,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1982,male,1,fair,more or less satisfied,very happy,3,2,2,1
+1982,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1982,male,2,good,not satisfied at all,not too happy,0,3,4,2
+1982,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1982,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1982,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,1,good,more or less satisfied,very happy,3,3,2,1
+1982,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,female,3,good,pretty well satisfied,very happy,3,3,3,3
+1982,female,2,good,not satisfied at all,very happy,3,3,4,2
+1982,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,male,2,good,more or less satisfied,very happy,3,3,2,2
+1982,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1982,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1982,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1982,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1982,female,3,good,more or less satisfied,very happy,3,3,2,3
+1982,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1982,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1982,male,3,good,more or less satisfied,not too happy,0,3,2,3
+1982,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1982,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1982,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1982,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1982,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,3,fair,not satisfied at all,not too happy,0,2,4,3
+1982,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,female,2,good,not satisfied at all,very happy,3,3,4,2
+1982,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1982,female,2,good,not satisfied at all,very happy,3,3,4,2
+1982,female,1,good,more or less satisfied,very happy,3,3,2,1
+1982,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1982,male,2,good,more or less satisfied,very happy,3,3,2,2
+1982,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,female,1,good,more or less satisfied,very happy,3,3,2,1
+1982,male,1,fair,pretty well satisfied,very happy,3,2,3,1
+1982,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1982,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1982,female,1,poor,not satisfied at all,very happy,3,1,4,1
+1982,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1982,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1982,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1982,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1982,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,2,good,not satisfied at all,very happy,3,3,4,2
+1982,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1982,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1982,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1982,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1982,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1982,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1982,female,1,good,more or less satisfied,very happy,3,3,2,1
+1982,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1982,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,male,2,good,more or less satisfied,very happy,3,3,2,2
+1982,female,1,good,more or less satisfied,very happy,3,3,2,1
+1982,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1982,female,2,good,more or less satisfied,very happy,3,3,2,2
+1982,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1982,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1982,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1982,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1982,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1982,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1982,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1982,female,2,poor,not satisfied at all,not too happy,0,1,4,2
+1982,female,1,good,not satisfied at all,very happy,3,3,4,1
+1982,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1982,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1982,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1982,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1982,female,3,excellent,more or less satisfied,very happy,3,4,2,3
+1982,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1982,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1982,male,2,good,pretty well satisfied,not too happy,0,3,3,2
+1982,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1982,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1982,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,female,3,good,more or less satisfied,not too happy,0,3,2,3
+1982,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1982,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1982,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1982,female,2,poor,not satisfied at all,not too happy,0,1,4,2
+1982,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1982,male,3,poor,not satisfied at all,not too happy,0,1,4,3
+1982,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1982,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1982,female,3,fair,not satisfied at all,not too happy,0,2,4,3
+1982,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1982,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1982,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1982,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1984,female,1,fair,pretty well satisfied,not too happy,0,2,3,1
+1984,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1984,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1984,male,3,good,more or less satisfied,very happy,3,3,2,3
+1984,male,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1984,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1984,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1984,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1984,female,3,excellent,more or less satisfied,very happy,3,4,2,3
+1984,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1984,female,1,good,not satisfied at all,very happy,3,3,4,1
+1984,female,1,good,more or less satisfied,very happy,3,3,2,1
+1984,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1984,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1984,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1984,female,2,good,not satisfied at all,very happy,3,3,4,2
+1984,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1984,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1984,female,1,good,more or less satisfied,very happy,3,3,2,1
+1984,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1984,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1984,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1984,female,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1984,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1984,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1984,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1984,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1984,male,2,good,more or less satisfied,very happy,3,3,2,2
+1984,male,1,good,pretty well satisfied,not too happy,0,3,3,1
+1984,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1984,female,2,good,more or less satisfied,very happy,3,3,2,2
+1984,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1984,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1984,female,1,good,more or less satisfied,very happy,3,3,2,1
+1984,female,2,fair,not satisfied at all,very happy,3,2,4,2
+1984,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1984,female,1,good,more or less satisfied,very happy,3,3,2,1
+1984,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1984,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1984,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1984,male,1,good,more or less satisfied,very happy,3,3,2,1
+1984,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1984,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1984,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1984,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1984,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1984,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1984,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1984,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1984,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1984,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1984,female,1,good,not satisfied at all,very happy,3,3,4,1
+1984,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1984,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1984,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1984,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1984,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1984,female,2,good,more or less satisfied,not too happy,0,3,2,2
+1984,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1984,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1984,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1984,male,2,good,not satisfied at all,not too happy,0,3,4,2
+1984,female,1,good,more or less satisfied,very happy,3,3,2,1
+1984,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1984,male,3,good,not satisfied at all,not too happy,0,3,4,3
+1984,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1984,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1984,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1984,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1984,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1984,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+1984,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1984,female,2,good,more or less satisfied,very happy,3,3,2,2
+1984,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1984,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1984,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1984,female,1,good,more or less satisfied,very happy,3,3,2,1
+1984,female,1,good,more or less satisfied,very happy,3,3,2,1
+1984,male,2,good,not satisfied at all,not too happy,0,3,4,2
+1984,female,1,good,more or less satisfied,very happy,3,3,2,1
+1984,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1984,female,1,good,more or less satisfied,very happy,3,3,2,1
+1984,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1984,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1984,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1984,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1984,female,1,fair,pretty well satisfied,not too happy,0,2,3,1
+1984,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1984,female,1,good,not satisfied at all,very happy,3,3,4,1
+1984,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1984,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1984,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1984,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1984,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1984,female,1,good,more or less satisfied,very happy,3,3,2,1
+1984,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1984,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1984,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1984,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1984,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1984,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1984,male,3,fair,more or less satisfied,very happy,3,2,2,3
+1984,male,2,excellent,pretty well satisfied,not too happy,0,4,3,2
+1984,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1984,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1984,female,2,good,more or less satisfied,very happy,3,3,2,2
+1984,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1984,male,1,good,not satisfied at all,very happy,3,3,4,1
+1984,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1984,female,1,good,more or less satisfied,very happy,3,3,2,1
+1984,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1984,female,2,good,more or less satisfied,very happy,3,3,2,2
+1984,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1984,female,2,poor,more or less satisfied,very happy,3,1,2,2
+1984,male,3,good,more or less satisfied,very happy,3,3,2,3
+1984,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1984,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1984,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1984,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1985,male,1,fair,not satisfied at all,very happy,3,2,4,1
+1985,female,1,good,more or less satisfied,very happy,3,3,2,1
+1985,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1985,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1985,female,3,good,more or less satisfied,not too happy,0,3,2,3
+1985,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1985,female,1,good,more or less satisfied,very happy,3,3,2,1
+1985,male,2,poor,not satisfied at all,not too happy,0,1,4,2
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1985,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1985,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1985,female,1,good,more or less satisfied,very happy,3,3,2,1
+1985,male,1,good,not satisfied at all,very happy,3,3,4,1
+1985,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1985,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1985,male,1,good,more or less satisfied,very happy,3,3,2,1
+1985,male,2,good,more or less satisfied,very happy,3,3,2,2
+1985,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1985,female,2,good,not satisfied at all,very happy,3,3,4,2
+1985,male,2,fair,more or less satisfied,very happy,3,2,2,2
+1985,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1985,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1985,female,1,good,more or less satisfied,very happy,3,3,2,1
+1985,male,1,good,not satisfied at all,very happy,3,3,4,1
+1985,female,2,good,more or less satisfied,very happy,3,3,2,2
+1985,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1985,female,1,good,more or less satisfied,very happy,3,3,2,1
+1985,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1985,female,1,fair,pretty well satisfied,not too happy,0,2,3,1
+1985,male,3,fair,not satisfied at all,not too happy,0,2,4,3
+1985,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1985,female,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1985,male,1,good,more or less satisfied,very happy,3,3,2,1
+1985,female,3,excellent,more or less satisfied,very happy,3,4,2,3
+1985,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1985,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1985,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1985,female,2,good,more or less satisfied,very happy,3,3,2,2
+1985,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1985,female,1,good,more or less satisfied,very happy,3,3,2,1
+1985,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1985,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1985,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1985,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,3,fair,pretty well satisfied,very happy,3,2,3,3
+1985,female,2,good,more or less satisfied,very happy,3,3,2,2
+1985,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1985,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1985,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1985,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1985,male,2,good,more or less satisfied,very happy,3,3,2,2
+1985,male,3,excellent,not satisfied at all,very happy,3,4,4,3
+1985,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1985,female,2,good,more or less satisfied,very happy,3,3,2,2
+1985,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1985,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1985,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1985,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1985,female,3,excellent,more or less satisfied,very happy,3,4,2,3
+1985,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1985,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1985,female,1,good,more or less satisfied,very happy,3,3,2,1
+1985,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1985,female,4,fair,more or less satisfied,very happy,3,2,2,4
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,2,fair,pretty well satisfied,not too happy,0,2,3,2
+1985,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1985,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,1,good,more or less satisfied,very happy,3,3,2,1
+1985,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1985,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1985,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1985,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1985,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1985,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1985,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1985,female,2,good,more or less satisfied,very happy,3,3,2,2
+1985,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1985,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1987,female,3,excellent,more or less satisfied,not too happy,0,4,2,3
+1987,female,2,good,more or less satisfied,very happy,3,3,2,2
+1987,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1987,female,1,good,more or less satisfied,very happy,3,3,2,1
+1987,male,1,good,not satisfied at all,very happy,3,3,4,1
+1987,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1987,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1987,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1987,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,1,good,more or less satisfied,very happy,3,3,2,1
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1987,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1987,female,3,excellent,not satisfied at all,not too happy,0,4,4,3
+1987,female,1,good,more or less satisfied,very happy,3,3,2,1
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1987,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1987,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1987,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1987,male,2,good,more or less satisfied,very happy,3,3,2,2
+1987,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1987,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1987,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1987,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1987,female,1,good,more or less satisfied,very happy,3,3,2,1
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1987,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1987,male,1,good,more or less satisfied,very happy,3,3,2,1
+1987,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1987,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1987,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1987,female,1,good,more or less satisfied,very happy,3,3,2,1
+1987,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1987,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1987,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1987,female,1,good,more or less satisfied,very happy,3,3,2,1
+1987,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1987,female,1,good,more or less satisfied,very happy,3,3,2,1
+1987,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1987,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1987,male,1,fair,not satisfied at all,very happy,3,2,4,1
+1987,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1987,female,3,good,more or less satisfied,very happy,3,3,2,3
+1987,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1987,female,1,good,more or less satisfied,very happy,3,3,2,1
+1987,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1987,male,1,good,more or less satisfied,very happy,3,3,2,1
+1987,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1987,male,1,good,more or less satisfied,very happy,3,3,2,1
+1987,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1987,female,2,good,pretty well satisfied,not too happy,0,3,3,2
+1987,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1987,female,1,good,more or less satisfied,very happy,3,3,2,1
+1987,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1987,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1987,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1987,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1987,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1987,male,1,good,more or less satisfied,very happy,3,3,2,1
+1987,female,3,good,not satisfied at all,very happy,3,3,4,3
+1987,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1987,male,1,fair,pretty well satisfied,not too happy,0,2,3,1
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1987,male,1,good,not satisfied at all,very happy,3,3,4,1
+1987,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1987,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+1987,female,2,good,more or less satisfied,not too happy,0,3,2,2
+1987,male,2,good,not satisfied at all,very happy,3,3,4,2
+1987,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1987,female,1,good,more or less satisfied,very happy,3,3,2,1
+1987,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1987,female,3,good,not satisfied at all,very happy,3,3,4,3
+1987,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,3,fair,more or less satisfied,very happy,3,2,2,3
+1987,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1987,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1987,male,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1987,female,1,good,not satisfied at all,very happy,3,3,4,1
+1987,male,1,poor,not satisfied at all,not too happy,0,1,4,1
+1987,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1987,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1987,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1987,male,2,good,not satisfied at all,very happy,3,3,4,2
+1987,male,2,good,not satisfied at all,not too happy,0,3,4,2
+1987,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1987,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1987,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1987,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1987,female,1,good,more or less satisfied,very happy,3,3,2,1
+1987,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1987,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1987,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1987,female,2,good,not satisfied at all,very happy,3,3,4,2
+1987,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1987,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1987,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1987,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1987,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1987,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1988,male,1,good,more or less satisfied,very happy,3,3,2,1
+1988,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1988,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1988,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+1988,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1988,male,1,good,not satisfied at all,very happy,3,3,4,1
+1988,female,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1988,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1988,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1988,male,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,3,good,more or less satisfied,very happy,3,3,2,3
+1988,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1988,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1988,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1988,female,2,good,pretty well satisfied,not too happy,0,3,3,2
+1988,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1988,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1988,female,3,good,pretty well satisfied,very happy,3,3,3,3
+1988,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1988,male,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1988,male,1,poor,more or less satisfied,very happy,3,1,2,1
+1988,male,1,good,not satisfied at all,very happy,3,3,4,1
+1988,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1988,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1988,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1988,male,1,good,more or less satisfied,very happy,3,3,2,1
+1988,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1988,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1988,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1988,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1988,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1988,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1988,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1988,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1988,female,3,good,more or less satisfied,very happy,3,3,2,3
+1988,female,1,good,not satisfied at all,very happy,3,3,4,1
+1988,female,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,3,excellent,not satisfied at all,very happy,3,4,4,3
+1988,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1988,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1988,female,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1988,male,1,good,not satisfied at all,very happy,3,3,4,1
+1988,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1988,female,1,good,more or less satisfied,very happy,3,3,2,1
+1988,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+1988,female,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,1,good,not satisfied at all,very happy,3,3,4,1
+1988,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1988,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1988,female,1,good,more or less satisfied,very happy,3,3,2,1
+1988,male,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1988,male,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1988,male,1,fair,pretty well satisfied,very happy,3,2,3,1
+1988,female,2,good,not satisfied at all,very happy,3,3,4,2
+1988,female,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1988,female,3,fair,more or less satisfied,not too happy,0,2,2,3
+1988,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1988,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1988,male,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,1,good,more or less satisfied,very happy,3,3,2,1
+1988,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1988,female,1,good,not satisfied at all,very happy,3,3,4,1
+1988,male,2,fair,more or less satisfied,very happy,3,2,2,2
+1988,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1988,female,2,fair,not satisfied at all,very happy,3,2,4,2
+1988,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1988,female,1,good,more or less satisfied,very happy,3,3,2,1
+1988,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1989,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1989,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1989,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1989,female,1,good,more or less satisfied,very happy,3,3,2,1
+1989,female,2,good,more or less satisfied,very happy,3,3,2,2
+1989,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1989,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1989,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1989,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1989,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1989,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1989,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1989,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1989,female,1,good,more or less satisfied,very happy,3,3,2,1
+1989,male,2,fair,more or less satisfied,very happy,3,2,2,2
+1989,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+1989,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1989,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,female,1,good,not satisfied at all,very happy,3,3,4,1
+1989,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1989,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1989,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1989,female,2,good,more or less satisfied,very happy,3,3,2,2
+1989,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1989,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1989,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1989,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1989,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1989,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,female,1,good,more or less satisfied,very happy,3,3,2,1
+1989,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1989,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1989,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1989,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1989,female,2,good,more or less satisfied,very happy,3,3,2,2
+1989,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1989,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1989,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+1989,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1989,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1989,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1989,female,2,good,more or less satisfied,very happy,3,3,2,2
+1989,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1989,male,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1989,female,1,good,more or less satisfied,very happy,3,3,2,1
+1989,male,1,fair,more or less satisfied,very happy,3,2,2,1
+1989,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1989,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1989,female,3,good,more or less satisfied,very happy,3,3,2,3
+1989,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1989,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+1989,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1989,female,1,good,more or less satisfied,very happy,3,3,2,1
+1989,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1989,male,2,good,not satisfied at all,very happy,3,3,4,2
+1989,female,2,poor,not satisfied at all,not too happy,0,1,4,2
+1989,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1989,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1989,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1990,female,1,good,not satisfied at all,very happy,3,3,4,1
+1990,female,1,good,more or less satisfied,very happy,3,3,2,1
+1990,male,1,good,more or less satisfied,very happy,3,3,2,1
+1990,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1990,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1990,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1990,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1990,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1990,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1990,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1990,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1990,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1990,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1990,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1990,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1990,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1990,male,2,good,not satisfied at all,not too happy,0,3,4,2
+1990,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1990,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1990,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1990,male,1,fair,more or less satisfied,very happy,3,2,2,1
+1990,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1990,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1990,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1990,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1990,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1990,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1990,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1990,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1990,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1990,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1990,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1990,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1990,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1990,male,2,good,more or less satisfied,very happy,3,3,2,2
+1990,female,2,good,more or less satisfied,very happy,3,3,2,2
+1990,male,1,good,more or less satisfied,very happy,3,3,2,1
+1990,female,1,good,more or less satisfied,very happy,3,3,2,1
+1990,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1990,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1990,male,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1990,female,1,good,more or less satisfied,very happy,3,3,2,1
+1990,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1990,female,1,good,more or less satisfied,very happy,3,3,2,1
+1990,female,1,good,more or less satisfied,very happy,3,3,2,1
+1990,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1990,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1990,female,1,good,more or less satisfied,very happy,3,3,2,1
+1990,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1990,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1990,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1990,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1990,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1990,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1990,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1990,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1990,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1990,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1990,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1990,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1990,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1990,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1990,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1990,male,1,good,not satisfied at all,very happy,3,3,4,1
+1991,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1991,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1991,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1991,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1991,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1991,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1991,female,3,fair,not satisfied at all,not too happy,0,2,4,3
+1991,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1991,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1991,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1991,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1991,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1991,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1991,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1991,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1991,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1991,female,2,good,not satisfied at all,very happy,3,3,4,2
+1991,female,1,good,more or less satisfied,very happy,3,3,2,1
+1991,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1991,female,3,fair,not satisfied at all,not too happy,0,2,4,3
+1991,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1991,female,2,good,more or less satisfied,very happy,3,3,2,2
+1991,male,1,good,not satisfied at all,very happy,3,3,4,1
+1991,male,1,good,more or less satisfied,very happy,3,3,2,1
+1991,male,1,good,more or less satisfied,very happy,3,3,2,1
+1991,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1991,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1991,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1991,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1991,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1991,female,2,fair,more or less satisfied,very happy,3,2,2,2
+1991,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1991,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1991,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1991,female,1,good,more or less satisfied,very happy,3,3,2,1
+1991,male,2,fair,not satisfied at all,very happy,3,2,4,2
+1991,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1991,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1991,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1991,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1991,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1991,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1991,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1991,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1991,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1991,male,2,good,more or less satisfied,very happy,3,3,2,2
+1991,female,1,good,more or less satisfied,very happy,3,3,2,1
+1991,female,1,good,more or less satisfied,very happy,3,3,2,1
+1991,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1991,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1991,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1991,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1991,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1991,female,1,good,more or less satisfied,very happy,3,3,2,1
+1991,female,1,good,more or less satisfied,very happy,3,3,2,1
+1991,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1991,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1991,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1991,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1991,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1991,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1991,male,2,good,more or less satisfied,very happy,3,3,2,2
+1991,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1991,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1991,female,3,fair,pretty well satisfied,not too happy,0,2,3,3
+1991,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1991,male,1,good,more or less satisfied,very happy,3,3,2,1
+1991,female,1,good,more or less satisfied,very happy,3,3,2,1
+1991,male,1,good,not satisfied at all,very happy,3,3,4,1
+1991,male,3,excellent,not satisfied at all,very happy,3,4,4,3
+1991,female,1,good,more or less satisfied,very happy,3,3,2,1
+1991,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1991,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1993,male,3,fair,more or less satisfied,not too happy,0,2,2,3
+1993,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1993,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1993,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1993,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1993,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1993,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1993,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1993,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1993,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1993,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1993,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1993,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1993,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1993,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1993,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1993,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1993,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1993,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1993,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1993,female,2,good,more or less satisfied,very happy,3,3,2,2
+1993,female,1,good,not satisfied at all,very happy,3,3,4,1
+1993,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1993,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1993,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1993,male,1,good,not satisfied at all,very happy,3,3,4,1
+1993,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1993,female,3,excellent,not satisfied at all,very happy,3,4,4,3
+1993,female,1,good,more or less satisfied,very happy,3,3,2,1
+1993,male,1,good,more or less satisfied,very happy,3,3,2,1
+1993,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1993,male,2,good,not satisfied at all,very happy,3,3,4,2
+1993,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1993,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1993,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1993,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1993,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1993,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1993,female,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1993,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1993,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1993,female,1,good,not satisfied at all,very happy,3,3,4,1
+1993,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1993,female,3,poor,more or less satisfied,very happy,3,1,2,3
+1993,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1993,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1993,female,1,fair,pretty well satisfied,not too happy,0,2,3,1
+1993,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1993,male,2,good,more or less satisfied,not too happy,0,3,2,2
+1993,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1993,female,1,good,more or less satisfied,very happy,3,3,2,1
+1993,male,2,good,not satisfied at all,not too happy,0,3,4,2
+1993,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1993,female,1,good,more or less satisfied,very happy,3,3,2,1
+1993,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1993,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1993,female,1,good,more or less satisfied,very happy,3,3,2,1
+1993,female,3,good,more or less satisfied,very happy,3,3,2,3
+1993,male,1,good,not satisfied at all,very happy,3,3,4,1
+1993,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1993,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1993,female,3,fair,pretty well satisfied,not too happy,0,2,3,3
+1993,male,2,good,more or less satisfied,very happy,3,3,2,2
+1994,female,2,good,not satisfied at all,very happy,3,3,4,2
+1994,female,2,good,pretty well satisfied,not too happy,0,3,3,2
+1994,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1994,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1994,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1994,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1994,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1994,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1994,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1994,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,female,1,good,more or less satisfied,very happy,3,3,2,1
+1994,male,1,good,more or less satisfied,very happy,3,3,2,1
+1994,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,female,2,good,not satisfied at all,very happy,3,3,4,2
+1994,male,1,good,more or less satisfied,very happy,3,3,2,1
+1994,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1994,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1994,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1994,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1994,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1994,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1994,female,1,good,not satisfied at all,very happy,3,3,4,1
+1994,female,2,good,not satisfied at all,very happy,3,3,4,2
+1994,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1994,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1994,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1994,female,1,good,more or less satisfied,very happy,3,3,2,1
+1994,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1994,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1994,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1994,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1994,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1994,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,female,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1994,female,1,good,more or less satisfied,very happy,3,3,2,1
+1994,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1994,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1994,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1994,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1994,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1994,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1994,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1994,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1994,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1994,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1994,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1994,male,3,good,not satisfied at all,very happy,3,3,4,3
+1994,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1994,male,2,fair,more or less satisfied,very happy,3,2,2,2
+1994,female,2,good,pretty well satisfied,not too happy,0,3,3,2
+1994,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1994,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1994,female,2,good,not satisfied at all,very happy,3,3,4,2
+1994,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1994,male,2,good,not satisfied at all,very happy,3,3,4,2
+1994,female,2,poor,more or less satisfied,not too happy,0,1,2,2
+1994,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1994,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1994,male,2,good,more or less satisfied,very happy,3,3,2,2
+1994,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1994,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1994,male,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1994,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1994,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1994,female,3,excellent,more or less satisfied,very happy,3,4,2,3
+1994,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1994,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1994,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1994,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1994,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1994,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1994,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1994,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1994,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1994,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1994,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1994,female,1,good,more or less satisfied,very happy,3,3,2,1
+1994,female,2,good,more or less satisfied,not too happy,0,3,2,2
+1994,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,female,1,good,more or less satisfied,very happy,3,3,2,1
+1994,female,1,good,more or less satisfied,very happy,3,3,2,1
+1994,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,male,2,good,not satisfied at all,very happy,3,3,4,2
+1994,female,1,good,more or less satisfied,very happy,3,3,2,1
+1994,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1994,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1994,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1994,male,1,good,more or less satisfied,very happy,3,3,2,1
+1994,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1994,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,female,3,good,more or less satisfied,not too happy,0,3,2,3
+1994,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,female,1,good,not satisfied at all,very happy,3,3,4,1
+1994,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1994,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1994,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1994,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1994,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1994,female,3,good,pretty well satisfied,very happy,3,3,3,3
+1994,female,1,good,more or less satisfied,very happy,3,3,2,1
+1994,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1994,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1994,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1994,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1994,male,1,good,more or less satisfied,very happy,3,3,2,1
+1994,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1994,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+1994,male,1,good,more or less satisfied,very happy,3,3,2,1
+1994,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1994,female,2,good,more or less satisfied,not too happy,0,3,2,2
+1994,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,1,good,not satisfied at all,very happy,3,3,4,1
+1996,female,3,good,more or less satisfied,not too happy,0,3,2,3
+1996,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1996,male,1,fair,not satisfied at all,very happy,3,2,4,1
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1996,female,2,good,more or less satisfied,very happy,3,3,2,2
+1996,female,2,fair,not satisfied at all,very happy,3,2,4,2
+1996,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1996,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1996,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1996,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1996,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1996,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1996,female,3,good,not satisfied at all,not too happy,0,3,4,3
+1996,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+1996,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1996,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1996,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,female,3,excellent,more or less satisfied,very happy,3,4,2,3
+1996,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,female,2,good,more or less satisfied,very happy,3,3,2,2
+1996,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1996,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,male,1,good,more or less satisfied,very happy,3,3,2,1
+1996,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1996,male,2,fair,more or less satisfied,not too happy,0,2,2,2
+1996,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1996,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1996,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1996,male,2,good,not satisfied at all,not too happy,0,3,4,2
+1996,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1996,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1996,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1996,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1996,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1996,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1996,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1996,male,2,good,not satisfied at all,very happy,3,3,4,2
+1996,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1996,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1996,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1996,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1996,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1996,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1996,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1996,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,male,2,fair,more or less satisfied,very happy,3,2,2,2
+1996,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1996,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1996,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1996,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1996,male,3,good,pretty well satisfied,very happy,3,3,3,3
+1996,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1996,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1996,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1996,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1996,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1996,male,1,fair,pretty well satisfied,not too happy,0,2,3,1
+1996,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1996,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1996,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+1996,female,2,fair,more or less satisfied,very happy,3,2,2,2
+1996,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,male,2,good,more or less satisfied,very happy,3,3,2,2
+1996,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1996,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1996,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1996,male,1,good,more or less satisfied,very happy,3,3,2,1
+1996,male,1,good,not satisfied at all,very happy,3,3,4,1
+1996,male,1,fair,more or less satisfied,very happy,3,2,2,1
+1996,male,3,good,not satisfied at all,very happy,3,3,4,3
+1996,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1996,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1996,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1996,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1996,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1996,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1996,female,3,good,not satisfied at all,not too happy,0,3,4,3
+1996,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1996,male,1,good,more or less satisfied,very happy,3,3,2,1
+1996,male,2,good,more or less satisfied,very happy,3,3,2,2
+1996,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1996,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1996,female,3,fair,not satisfied at all,not too happy,0,2,4,3
+1996,male,2,good,more or less satisfied,very happy,3,3,2,2
+1996,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1996,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,2,good,not satisfied at all,very happy,3,3,4,2
+1996,male,1,good,more or less satisfied,not too happy,0,3,2,1
+1996,male,2,good,more or less satisfied,very happy,3,3,2,2
+1996,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1996,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,male,1,fair,not satisfied at all,very happy,3,2,4,1
+1996,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1996,male,2,fair,more or less satisfied,very happy,3,2,2,2
+1996,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+1996,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1996,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1996,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1996,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1996,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1996,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+1996,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1996,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,male,2,poor,not satisfied at all,not too happy,0,1,4,2
+1996,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1996,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1996,male,1,good,more or less satisfied,very happy,3,3,2,1
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1996,female,2,good,more or less satisfied,very happy,3,3,2,2
+1996,female,1,good,more or less satisfied,very happy,3,3,2,1
+1996,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+1996,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1996,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1996,male,2,excellent,more or less satisfied,not too happy,0,4,2,2
+1996,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1996,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1996,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1996,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1996,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,female,2,good,pretty well satisfied,not too happy,0,3,3,2
+1996,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,male,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+1996,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,male,1,fair,not satisfied at all,very happy,3,2,4,1
+1996,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+1996,male,1,good,not satisfied at all,very happy,3,3,4,1
+1996,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1996,male,3,good,more or less satisfied,very happy,3,3,2,3
+1996,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,male,1,poor,pretty well satisfied,very happy,3,1,3,1
+1996,female,3,good,more or less satisfied,very happy,3,3,2,3
+1996,female,2,good,not satisfied at all,not too happy,0,3,4,2
+1996,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1996,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1996,female,1,good,not satisfied at all,very happy,3,3,4,1
+1996,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1996,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1996,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1996,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1996,male,2,fair,not satisfied at all,very happy,3,2,4,2
+1996,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1996,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1996,male,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,3,excellent,not satisfied at all,not too happy,0,4,4,3
+1998,female,2,fair,more or less satisfied,very happy,3,2,2,2
+1998,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1998,male,1,good,more or less satisfied,very happy,3,3,2,1
+1998,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,2,poor,not satisfied at all,very happy,3,1,4,2
+1998,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1998,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+1998,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1998,male,1,good,not satisfied at all,very happy,3,3,4,1
+1998,female,2,good,more or less satisfied,very happy,3,3,2,2
+1998,male,1,good,not satisfied at all,very happy,3,3,4,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,male,2,good,more or less satisfied,very happy,3,3,2,2
+1998,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,2,good,more or less satisfied,very happy,3,3,2,2
+1998,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1998,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1998,male,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1998,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1998,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1998,female,1,good,not satisfied at all,very happy,3,3,4,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,male,2,fair,more or less satisfied,very happy,3,2,2,2
+1998,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1998,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1998,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1998,female,3,good,pretty well satisfied,very happy,3,3,3,3
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1998,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,2,good,more or less satisfied,very happy,3,3,2,2
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1998,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1998,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+1998,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1998,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1998,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1998,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1998,female,2,good,more or less satisfied,very happy,3,3,2,2
+1998,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1998,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1998,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+1998,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1998,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1998,female,2,good,not satisfied at all,very happy,3,3,4,2
+1998,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1998,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,male,2,good,not satisfied at all,not too happy,0,3,4,2
+1998,male,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,2,good,not satisfied at all,very happy,3,3,4,2
+1998,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1998,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1998,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1998,male,2,good,not satisfied at all,very happy,3,3,4,2
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1998,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1998,female,1,good,not satisfied at all,very happy,3,3,4,1
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,good,not satisfied at all,very happy,3,3,4,1
+1998,male,1,fair,pretty well satisfied,very happy,3,2,3,1
+1998,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1998,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1998,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+1998,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1998,male,2,good,pretty well satisfied,very happy,3,3,3,2
+1998,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,male,2,good,more or less satisfied,very happy,3,3,2,2
+1998,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1998,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+1998,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+1998,male,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,2,good,more or less satisfied,not too happy,0,3,2,2
+1998,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1998,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1998,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1998,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1998,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1998,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1998,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1998,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1998,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+1998,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1998,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1998,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+1998,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+1998,female,1,fair,not satisfied at all,very happy,3,2,4,1
+1998,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1998,female,1,good,more or less satisfied,not too happy,0,3,2,1
+1998,male,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1998,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1998,female,1,good,not satisfied at all,very happy,3,3,4,1
+1998,female,1,fair,more or less satisfied,very happy,3,2,2,1
+1998,male,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+1998,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+1998,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,1,good,not satisfied at all,very happy,3,3,4,1
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1998,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,male,2,good,more or less satisfied,very happy,3,3,2,2
+1998,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+1998,male,1,good,not satisfied at all,very happy,3,3,4,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,1,good,not satisfied at all,not too happy,0,3,4,1
+1998,female,2,good,pretty well satisfied,very happy,3,3,3,2
+1998,female,1,good,not satisfied at all,not too happy,0,3,4,1
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+1998,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+1998,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+1998,male,2,good,more or less satisfied,very happy,3,3,2,2
+1998,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+1998,male,1,good,pretty well satisfied,very happy,3,3,3,1
+1998,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,female,1,fair,not satisfied at all,very happy,3,2,4,1
+2000,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+2000,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+2000,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,male,2,good,more or less satisfied,very happy,3,3,2,2
+2000,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,male,2,good,more or less satisfied,very happy,3,3,2,2
+2000,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,2,good,more or less satisfied,very happy,3,3,2,2
+2000,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+2000,female,2,good,pretty well satisfied,not too happy,0,3,3,2
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,male,2,good,pretty well satisfied,very happy,3,3,3,2
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+2000,male,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2000,female,2,fair,more or less satisfied,very happy,3,2,2,2
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,good,more or less satisfied,not too happy,0,3,2,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,male,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,good,not satisfied at all,very happy,3,3,4,1
+2000,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2000,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2000,female,2,poor,not satisfied at all,very happy,3,1,4,2
+2000,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2000,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,male,2,good,pretty well satisfied,very happy,3,3,3,2
+2000,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+2000,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,female,2,good,pretty well satisfied,very happy,3,3,3,2
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2000,female,2,fair,not satisfied at all,very happy,3,2,4,2
+2000,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2000,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,female,1,good,not satisfied at all,very happy,3,3,4,1
+2000,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,2,excellent,more or less satisfied,not too happy,0,4,2,2
+2000,male,3,good,not satisfied at all,not too happy,0,3,4,3
+2000,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+2000,male,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,fair,not satisfied at all,very happy,3,2,4,1
+2000,female,1,poor,not satisfied at all,very happy,3,1,4,1
+2000,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,female,3,good,more or less satisfied,not too happy,0,3,2,3
+2000,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,male,2,good,more or less satisfied,very happy,3,3,2,2
+2000,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2000,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+2000,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+2000,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+2000,female,3,good,more or less satisfied,very happy,3,3,2,3
+2000,male,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+2000,female,2,good,more or less satisfied,not too happy,0,3,2,2
+2000,female,1,fair,pretty well satisfied,not too happy,0,2,3,1
+2000,female,1,good,more or less satisfied,not too happy,0,3,2,1
+2000,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+2000,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2000,female,2,good,not satisfied at all,not too happy,0,3,4,2
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,good,not satisfied at all,very happy,3,3,4,1
+2000,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,good,not satisfied at all,very happy,3,3,4,1
+2000,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2000,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+2000,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2000,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,male,1,good,not satisfied at all,very happy,3,3,4,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,2,good,more or less satisfied,very happy,3,3,2,2
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+2000,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+2000,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,male,3,good,pretty well satisfied,very happy,3,3,3,3
+2000,male,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+2000,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2000,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2000,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+2000,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+2000,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+2000,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+2000,female,2,good,more or less satisfied,not too happy,0,3,2,2
+2000,male,2,good,more or less satisfied,very happy,3,3,2,2
+2000,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+2000,male,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,2,good,not satisfied at all,very happy,3,3,4,2
+2000,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,female,1,fair,not satisfied at all,very happy,3,2,4,1
+2000,female,2,good,more or less satisfied,very happy,3,3,2,2
+2000,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2000,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2000,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2000,female,1,good,more or less satisfied,very happy,3,3,2,1
+2000,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2000,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2000,male,2,good,not satisfied at all,very happy,3,3,4,2
+2000,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2002,male,1,good,more or less satisfied,very happy,3,3,2,1
+2002,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+2002,male,1,fair,pretty well satisfied,very happy,3,2,3,1
+2002,male,4,fair,not satisfied at all,not too happy,0,2,4,4
+2002,female,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+2002,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2002,male,2,good,more or less satisfied,very happy,3,3,2,2
+2002,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2002,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2002,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2002,male,3,good,more or less satisfied,very happy,3,3,2,3
+2002,male,2,good,pretty well satisfied,very happy,3,3,3,2
+2002,male,1,good,more or less satisfied,very happy,3,3,2,1
+2002,male,1,good,more or less satisfied,very happy,3,3,2,1
+2002,female,2,poor,not satisfied at all,very happy,3,1,4,2
+2002,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2002,male,1,poor,not satisfied at all,not too happy,0,1,4,1
+2002,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2002,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2002,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2002,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2002,male,1,good,not satisfied at all,very happy,3,3,4,1
+2002,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2002,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2002,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2002,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2002,male,1,fair,more or less satisfied,very happy,3,2,2,1
+2002,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2002,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+2002,male,1,good,more or less satisfied,very happy,3,3,2,1
+2002,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2002,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2002,female,3,excellent,not satisfied at all,very happy,3,4,4,3
+2002,male,2,good,not satisfied at all,very happy,3,3,4,2
+2002,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2002,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+2002,male,1,good,more or less satisfied,very happy,3,3,2,1
+2002,female,1,good,more or less satisfied,very happy,3,3,2,1
+2002,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2002,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2002,male,1,good,more or less satisfied,very happy,3,3,2,1
+2002,male,1,good,not satisfied at all,not too happy,0,3,4,1
+2002,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+2002,male,3,good,pretty well satisfied,very happy,3,3,3,3
+2002,male,3,fair,more or less satisfied,very happy,3,2,2,3
+2002,male,1,good,more or less satisfied,very happy,3,3,2,1
+2002,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2002,female,1,good,more or less satisfied,very happy,3,3,2,1
+2002,female,3,excellent,not satisfied at all,not too happy,0,4,4,3
+2002,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2002,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+2002,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+2004,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2004,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2004,female,1,good,more or less satisfied,very happy,3,3,2,1
+2004,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+2004,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2004,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2004,female,2,good,not satisfied at all,not too happy,0,3,4,2
+2004,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2004,female,1,fair,pretty well satisfied,not too happy,0,2,3,1
+2004,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+2004,male,1,good,more or less satisfied,very happy,3,3,2,1
+2004,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2004,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+2004,female,2,good,pretty well satisfied,very happy,3,3,3,2
+2004,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2004,male,1,fair,not satisfied at all,very happy,3,2,4,1
+2004,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2004,male,1,good,pretty well satisfied,not too happy,0,3,3,1
+2004,female,1,good,more or less satisfied,very happy,3,3,2,1
+2004,female,2,good,not satisfied at all,very happy,3,3,4,2
+2004,female,2,good,more or less satisfied,very happy,3,3,2,2
+2004,male,2,good,not satisfied at all,very happy,3,3,4,2
+2004,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2004,female,2,good,pretty well satisfied,very happy,3,3,3,2
+2004,male,1,good,more or less satisfied,not too happy,0,3,2,1
+2004,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2004,male,4,fair,not satisfied at all,very happy,3,2,4,4
+2004,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2004,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2004,female,2,good,more or less satisfied,not too happy,0,3,2,2
+2004,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+2004,female,1,good,more or less satisfied,very happy,3,3,2,1
+2004,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+2004,female,2,good,more or less satisfied,very happy,3,3,2,2
+2004,female,2,good,more or less satisfied,very happy,3,3,2,2
+2004,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2004,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+2004,male,1,good,not satisfied at all,not too happy,0,3,4,1
+2004,male,1,good,more or less satisfied,very happy,3,3,2,1
+2004,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2004,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+2004,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2004,female,1,good,more or less satisfied,not too happy,0,3,2,1
+2004,female,1,good,not satisfied at all,very happy,3,3,4,1
+2004,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+2006,female,2,good,pretty well satisfied,very happy,3,3,3,2
+2006,female,1,fair,not satisfied at all,very happy,3,2,4,1
+2006,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2006,male,1,good,more or less satisfied,not too happy,0,3,2,1
+2006,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2006,male,1,good,pretty well satisfied,not too happy,0,3,3,1
+2006,female,1,good,more or less satisfied,very happy,3,3,2,1
+2006,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2006,female,2,good,more or less satisfied,very happy,3,3,2,2
+2006,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2006,male,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2006,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+2006,male,1,good,more or less satisfied,not too happy,0,3,2,1
+2006,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+2006,male,1,excellent,pretty well satisfied,not too happy,0,4,3,1
+2006,male,2,good,more or less satisfied,very happy,3,3,2,2
+2006,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,female,1,good,more or less satisfied,not too happy,0,3,2,1
+2006,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+2006,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,female,2,good,not satisfied at all,very happy,3,3,4,2
+2006,male,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2006,female,1,good,more or less satisfied,very happy,3,3,2,1
+2006,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+2006,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2006,male,2,good,pretty well satisfied,very happy,3,3,3,2
+2006,male,1,good,more or less satisfied,not too happy,0,3,2,1
+2006,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2006,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+2006,female,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,4,excellent,more or less satisfied,very happy,3,4,2,4
+2006,male,4,excellent,more or less satisfied,very happy,3,4,2,4
+2006,male,1,good,not satisfied at all,not too happy,0,3,4,1
+2006,female,1,fair,pretty well satisfied,very happy,3,2,3,1
+2006,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2006,female,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,1,fair,not satisfied at all,very happy,3,2,4,1
+2006,female,2,good,not satisfied at all,not too happy,0,3,4,2
+2006,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2006,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2006,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2006,female,3,good,more or less satisfied,very happy,3,3,2,3
+2006,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2006,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2006,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2006,female,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2006,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+2006,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2006,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+2006,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2006,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2006,female,3,fair,more or less satisfied,very happy,3,2,2,3
+2006,male,2,good,more or less satisfied,not too happy,0,3,2,2
+2006,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,female,1,fair,pretty well satisfied,not too happy,0,2,3,1
+2006,female,2,good,pretty well satisfied,very happy,3,3,3,2
+2006,male,1,good,not satisfied at all,very happy,3,3,4,1
+2006,female,3,fair,not satisfied at all,not too happy,0,2,4,3
+2006,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2006,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2006,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+2006,female,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,1,poor,more or less satisfied,not too happy,0,1,2,1
+2006,male,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,female,2,good,not satisfied at all,very happy,3,3,4,2
+2006,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,male,3,excellent,more or less satisfied,not too happy,0,4,2,3
+2006,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2006,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2006,female,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,2,good,not satisfied at all,very happy,3,3,4,2
+2006,male,1,good,more or less satisfied,not too happy,0,3,2,1
+2006,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+2006,female,3,good,more or less satisfied,very happy,3,3,2,3
+2006,male,1,good,not satisfied at all,very happy,3,3,4,1
+2006,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+2006,female,1,good,more or less satisfied,very happy,3,3,2,1
+2006,male,1,fair,more or less satisfied,very happy,3,2,2,1
+2006,female,2,good,not satisfied at all,not too happy,0,3,4,2
+2006,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2006,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,female,2,good,pretty well satisfied,very happy,3,3,3,2
+2006,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+2006,male,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2006,male,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2006,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+2006,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+2006,female,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,2,excellent,not satisfied at all,very happy,3,4,4,2
+2006,male,1,good,more or less satisfied,very happy,3,3,2,1
+2006,female,2,good,pretty well satisfied,very happy,3,3,3,2
+2006,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2006,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2006,male,2,good,more or less satisfied,not too happy,0,3,2,2
+2006,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2006,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+2006,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2006,female,2,good,more or less satisfied,very happy,3,3,2,2
+2006,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2008,male,2,good,not satisfied at all,not too happy,0,3,4,2
+2008,female,2,good,more or less satisfied,very happy,3,3,2,2
+2008,male,2,good,more or less satisfied,very happy,3,3,2,2
+2008,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2008,female,3,fair,not satisfied at all,very happy,3,2,4,3
+2008,male,1,good,not satisfied at all,not too happy,0,3,4,1
+2008,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2008,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2008,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2008,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+2008,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+2008,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2008,female,1,good,more or less satisfied,not too happy,0,3,2,1
+2008,female,2,good,more or less satisfied,very happy,3,3,2,2
+2008,female,1,good,more or less satisfied,not too happy,0,3,2,1
+2008,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2008,male,1,poor,not satisfied at all,not too happy,0,1,4,1
+2008,female,2,fair,not satisfied at all,very happy,3,2,4,2
+2008,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2008,female,1,fair,not satisfied at all,very happy,3,2,4,1
+2008,male,1,good,not satisfied at all,very happy,3,3,4,1
+2008,male,4,excellent,more or less satisfied,very happy,3,4,2,4
+2008,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+2008,male,1,good,pretty well satisfied,not too happy,0,3,3,1
+2008,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+2008,male,2,good,more or less satisfied,very happy,3,3,2,2
+2008,male,1,good,not satisfied at all,not too happy,0,3,4,1
+2008,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2008,male,2,good,more or less satisfied,very happy,3,3,2,2
+2008,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+2008,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2008,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+2008,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2008,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2008,female,2,good,more or less satisfied,very happy,3,3,2,2
+2008,male,1,good,more or less satisfied,very happy,3,3,2,1
+2008,female,2,good,pretty well satisfied,very happy,3,3,3,2
+2008,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+2008,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2008,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2008,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+2008,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2008,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2008,male,1,good,not satisfied at all,not too happy,0,3,4,1
+2008,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2008,female,2,good,not satisfied at all,not too happy,0,3,4,2
+2008,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2008,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2008,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2008,female,2,good,more or less satisfied,very happy,3,3,2,2
+2008,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+2008,female,1,good,more or less satisfied,very happy,3,3,2,1
+2008,male,2,fair,not satisfied at all,very happy,3,2,4,2
+2008,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+2008,male,2,good,more or less satisfied,very happy,3,3,2,2
+2008,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+2008,male,2,fair,more or less satisfied,not too happy,0,2,2,2
+2008,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+2008,female,2,good,not satisfied at all,not too happy,0,3,4,2
+2008,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2008,female,2,good,more or less satisfied,very happy,3,3,2,2
+2008,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+2008,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2008,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2008,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2008,female,2,good,not satisfied at all,very happy,3,3,4,2
+2008,male,1,good,not satisfied at all,very happy,3,3,4,1
+2008,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2008,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2008,female,1,fair,pretty well satisfied,not too happy,0,2,3,1
+2008,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2008,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2008,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+2008,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2008,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+2008,male,2,good,more or less satisfied,very happy,3,3,2,2
+2008,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2008,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2008,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2008,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2008,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2008,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2008,female,2,good,pretty well satisfied,very happy,3,3,3,2
+2008,male,2,good,not satisfied at all,very happy,3,3,4,2
+2010,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2010,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2010,male,1,good,more or less satisfied,very happy,3,3,2,1
+2010,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2010,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+2010,female,2,excellent,more or less satisfied,not too happy,0,4,2,2
+2010,male,1,good,more or less satisfied,very happy,3,3,2,1
+2010,male,2,fair,more or less satisfied,not too happy,0,2,2,2
+2010,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2010,female,1,good,more or less satisfied,not too happy,0,3,2,1
+2010,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2010,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2010,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+2010,female,1,good,more or less satisfied,very happy,3,3,2,1
+2010,female,1,poor,pretty well satisfied,very happy,3,1,3,1
+2010,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2010,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+2010,female,1,fair,not satisfied at all,not too happy,0,2,4,1
+2010,female,3,excellent,more or less satisfied,not too happy,0,4,2,3
+2010,male,1,poor,not satisfied at all,not too happy,0,1,4,1
+2010,female,3,fair,more or less satisfied,not too happy,0,2,2,3
+2010,female,1,good,more or less satisfied,very happy,3,3,2,1
+2010,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2010,female,4,excellent,more or less satisfied,very happy,3,4,2,4
+2010,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2010,male,1,fair,not satisfied at all,very happy,3,2,4,1
+2010,male,1,good,more or less satisfied,very happy,3,3,2,1
+2010,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2010,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2010,male,1,good,pretty well satisfied,very happy,3,3,3,1
+2010,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2010,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2010,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2010,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2010,male,1,fair,not satisfied at all,very happy,3,2,4,1
+2010,male,1,good,more or less satisfied,very happy,3,3,2,1
+2010,male,1,good,not satisfied at all,very happy,3,3,4,1
+2010,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2010,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+2010,male,2,good,pretty well satisfied,very happy,3,3,3,2
+2010,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2010,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2010,female,3,good,not satisfied at all,not too happy,0,3,4,3
+2010,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2010,male,2,good,pretty well satisfied,very happy,3,3,3,2
+2010,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+2010,female,1,poor,not satisfied at all,not too happy,0,1,4,1
+2010,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2010,male,1,good,not satisfied at all,very happy,3,3,4,1
+2010,male,3,excellent,more or less satisfied,very happy,3,4,2,3
+2010,male,1,good,more or less satisfied,not too happy,0,3,2,1
+2010,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2010,female,2,fair,more or less satisfied,not too happy,0,2,2,2
+2010,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+2010,male,1,fair,more or less satisfied,very happy,3,2,2,1
+2010,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2010,male,1,fair,more or less satisfied,very happy,3,2,2,1
+2010,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+2010,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2010,female,2,good,more or less satisfied,very happy,3,3,2,2
+2010,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+2010,male,3,good,pretty well satisfied,very happy,3,3,3,3
+2010,female,2,good,not satisfied at all,not too happy,0,3,4,2
+2010,male,2,excellent,not satisfied at all,not too happy,0,4,4,2
+2010,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2010,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2010,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2010,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2010,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2010,female,3,good,not satisfied at all,not too happy,0,3,4,3
+2010,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2010,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2010,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2010,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2010,male,1,good,more or less satisfied,very happy,3,3,2,1
+2010,female,2,good,more or less satisfied,not too happy,0,3,2,2
+2010,male,3,excellent,more or less satisfied,not too happy,0,4,2,3
+2010,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+2010,female,1,good,not satisfied at all,very happy,3,3,4,1
+2010,female,1,good,not satisfied at all,very happy,3,3,4,1
+2010,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2010,male,1,fair,not satisfied at all,very happy,3,2,4,1
+2010,female,1,good,more or less satisfied,very happy,3,3,2,1
+2010,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,female,2,fair,not satisfied at all,not too happy,0,2,4,2
+2012,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,female,1,excellent,more or less satisfied,not too happy,0,4,2,1
+2012,female,2,good,not satisfied at all,not too happy,0,3,4,2
+2012,female,2,good,not satisfied at all,not too happy,0,3,4,2
+2012,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+2012,male,1,fair,more or less satisfied,not too happy,0,2,2,1
+2012,female,1,good,more or less satisfied,very happy,3,3,2,1
+2012,male,2,fair,pretty well satisfied,very happy,3,2,3,2
+2012,female,2,good,not satisfied at all,very happy,3,3,4,2
+2012,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+2012,female,2,fair,more or less satisfied,very happy,3,2,2,2
+2012,male,1,excellent,more or less satisfied,not too happy,0,4,2,1
+2012,female,1,excellent,not satisfied at all,very happy,3,4,4,1
+2012,female,1,excellent,not satisfied at all,not too happy,0,4,4,1
+2012,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2012,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+2012,male,1,good,more or less satisfied,very happy,3,3,2,1
+2012,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+2012,female,1,good,pretty well satisfied,not too happy,0,3,3,1
+2012,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2012,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+2012,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2012,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2012,male,2,good,more or less satisfied,very happy,3,3,2,2
+2012,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2012,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2012,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,female,2,poor,not satisfied at all,not too happy,0,1,4,2
+2012,female,3,excellent,more or less satisfied,very happy,3,4,2,3
+2012,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,female,1,fair,more or less satisfied,very happy,3,2,2,1
+2012,male,2,excellent,not satisfied at all,very happy,3,4,4,2
+2012,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2012,female,1,good,more or less satisfied,very happy,3,3,2,1
+2012,female,1,fair,more or less satisfied,not too happy,0,2,2,1
+2012,male,1,excellent,not satisfied at all,not too happy,0,4,4,1
+2012,female,2,excellent,more or less satisfied,very happy,3,4,2,2
+2012,female,3,excellent,not satisfied at all,very happy,3,4,4,3
+2012,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,female,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2012,female,1,good,not satisfied at all,very happy,3,3,4,1
+2012,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2012,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2012,male,1,excellent,not satisfied at all,very happy,3,4,4,1
+2012,male,1,good,more or less satisfied,very happy,3,3,2,1
+2012,female,2,good,more or less satisfied,very happy,3,3,2,2
+2012,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,male,3,fair,not satisfied at all,very happy,3,2,4,3
+2012,male,1,good,more or less satisfied,not too happy,0,3,2,1
+2012,female,2,good,more or less satisfied,not too happy,0,3,2,2
+2012,male,2,good,pretty well satisfied,very happy,3,3,3,2
+2012,female,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2012,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+2012,female,2,good,more or less satisfied,very happy,3,3,2,2
+2012,male,2,fair,not satisfied at all,not too happy,0,2,4,2
+2012,female,2,good,more or less satisfied,very happy,3,3,2,2
+2012,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2012,male,1,fair,not satisfied at all,not too happy,0,2,4,1
+2012,female,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,male,1,good,more or less satisfied,very happy,3,3,2,1
+2012,female,1,good,more or less satisfied,very happy,3,3,2,1
+2012,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2012,male,1,good,more or less satisfied,very happy,3,3,2,1
+2012,female,2,good,more or less satisfied,very happy,3,3,2,2
+2012,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2012,male,2,good,not satisfied at all,very happy,3,3,4,2
+2012,male,2,good,not satisfied at all,not too happy,0,3,4,2
+2012,male,1,good,more or less satisfied,very happy,3,3,2,1
+2012,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2012,female,2,good,more or less satisfied,very happy,3,3,2,2
+2012,male,1,excellent,more or less satisfied,very happy,3,4,2,1
+2012,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2012,female,1,good,pretty well satisfied,very happy,3,3,3,1
+2012,female,2,poor,not satisfied at all,not too happy,0,1,4,2
+2012,female,2,excellent,not satisfied at all,not too happy,0,4,4,2
+2012,male,1,excellent,pretty well satisfied,very happy,3,4,3,1
+2012,female,1,good,more or less satisfied,very happy,3,3,2,1
+2012,male,2,excellent,pretty well satisfied,very happy,3,4,3,2
+2012,female,3,excellent,pretty well satisfied,very happy,3,4,3,3
+2012,male,1,good,pretty well satisfied,not too happy,0,3,3,1
+2012,female,1,good,not satisfied at all,not too happy,0,3,4,1
+2012,male,2,excellent,more or less satisfied,very happy,3,4,2,2
+2012,female,3,fair,more or less satisfied,very happy,3,2,2,3
