@@ -1,4 +1,4 @@
-# Examining the Multifaceted Impact of Family Size on Happiness, Health, Gender Dynamics, and Financial Well-being
+# Examining the Multifaceted Impact of Family Size on Happiness, Health, Gender Dynamics, and Financial Well-being : A Cross-Sectional Cumulative Analysis of U.S. Microdata from 1972-2012
 
 ## This repository is organized as Follows: 
 
