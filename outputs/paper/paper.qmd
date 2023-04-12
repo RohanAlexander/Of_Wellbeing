@@ -2,7 +2,7 @@
 title: "Examining the Multifaceted Impact of Family Size on Happiness, Health, Gender Dynamics, and Financial Well-being"
 subtitle: "A Cross-Sectional Cumulative Analysis of U.S. Microdata from 1972-2012"
 author: 
-  - SHAOHAN CHANG
+  - Shaohan Chang
 thanks: "Code and data are available at: https://github.com/lucas11333/Of_Wellbeing"
 date: "`r Sys.time()`"
 date-format: "D MMMM YYYY"
@@ -28,11 +28,11 @@ The data used for this study was obtained from cross-sectional cumulative micro 
 
 # Data Resource
 
-This following data analysis is processed in R [@R] with packages of tidyverse [@ti], dplyr [@dplyr], janitor [@janitor] , knitr [@knitr], here [@here], haven [@haven], ggplot [@ggplot] , kableExtra [@kableExtra] , model summary [@modelsummary] to assist in data analysis, and the data from General Social Survey [@gss].
+This following data analysis is processed in `R` [@R] with packages of `tidyverse` [@ti], `dplyr` [@dplyr], `janitor` [@janitor], `knitr` [@knitr], `here` [@here], `haven` [@haven], `ggplot` [@ggplot], `kableExtra` [@kableExtra], `modelsummary` [@modelsummary] to assist in data analysis, and the data from General Social Survey [@gss].
 
 ## Data
 
-The following table shows the first five rows of data and their corresponding parameters.The following data section provides a more detailed explanation of the selected variables for the data.
+This section provides a more detailed explanation of the selected variables for the data.
 
 ```{r}
 #| echo: false
@@ -48,57 +48,55 @@ library(here)
 library(ggplot2)
 library(tinytex)
 library(modelsummary)
+
 data <- read_csv(here::here("inputs/data/cleaned_data.csv"))
 ```
 
-In @tbl-var contains information on various personal and demographic characteristics of individuals, collected between the years 1972 and 2012. The data-set comprises of 10 variables, namely age, sex, number of babies, divorce status, self-reported health status, financial satisfaction, level of happiness, and additional variables. The data-set contains 38,960 rows, providing ample opportunities to analyze the relationships between these variables and gain valuable insights into the factors that could potentially impact an individual's overall life satisfaction.
+@tbl-var illustrates the nature of the data-set. The data-set contains information on various personal and demographic characteristics of individuals, collected between the years 1972 and 2012. The data-set comprises of 10 variables, namely age, sex, number of babies, divorce status, self-reported health status, financial satisfaction, level of happiness, and additional variables. The data-set contains 38,960 rows, providing ample opportunities to analyze the relationships between these variables and gain valuable insights into the factors that could potentially impact an individual's overall life satisfaction.
 
 ```{r}
 #| message: false
 #| echo: false
 #| warning: false
 #| label: tbl-var
-#| tbl-cap: Report Data (First 5 rows)
+#| tbl-cap: First five rows of the dataset, for illustrative purposes
+
 data %>%
   select(1:6) %>%
   slice(1:5) %>%
-  kable() %>%
-  kable_styling(bootstrap_options = c("striped", "hover"), full_width = FALSE)
-
+  kable(
+    col.names = c(
+      "Year",
+      "Sex",
+      "No. of children",
+      "Self-reported health",
+      "Financial satisfaction",
+      "Happiness"
+    ),
+    booktabs = TRUE,
+    linesep = ""
+  )
 ```
 
-```{r}
-#| echo: false
-#| warning: false
-data %>%
-  select(7:10) %>%
-  slice(1:5) %>%
-  kable() %>%
-  kable_styling(bootstrap_options = c("striped", "hover"), full_width = FALSE)
-```
-
--   year: This variable indicates the year in which the data was collected from GSS. In this data-set, all the observations are from the year of 1972 to 2012.
--   sex: Categorical variable with two levels: male and female.
--   babies: Integer variable with different levels, depending on the number of babies, for instance : 0, 1, 2, 3, 4, or 5+.
--   health: This variable indicates the self-reported health status of the individual at the time. It is a categorical variable with different levels, depending on the health status, for example : excellent, good, fair, or poor.
--   finance_satisfied: This variable indicates the individual's different level of satisfaction with their current financial situation. It is a categorical variable with different satisfaction levels: very satisfied, more or less satisfied, not very satisfied, and not at all satisfied.
--   happy: This variable indicates the individual's level of happiness or life satisfaction. It is a categorical variable with different levels of happiness: very happy, pretty happy, not too happy.
--   happy_score: The happy_score variable is an integer that represents the individuals in the dataset's self-reported happiness levels. Its sign ranges from 0 to 3, with 0 denoting "not too happy," 1 denoting "happy," 2 denoting "very happy," and 3 holding any unclassified or missing responses.
--   health_score: The health_score variable is an ordinal variable shows the self-reported health status of the individuals, which sign the ranges from 1 to 4. With 1 denoting "poor" health, 2 signifying "fair" health, 3 representing "good" health, and 4 referring to "excellent" health. The value 5 is reserved for any unclassified or missing responses.
--   finance_score: This ordinal variable represents the financial satisfaction level of the individuals in the dataset. It ranges from 1 to 3, with 1 indicating "Not at all satisfied," 2 denoting "more or less satisfied," and 3 signifying "pretty well satisfied." The value 4 is reserved for any unclassified or missing responses.
--   babies_number: The babies_number variable is an ordinal variable denoting the number of babies an individual in the dataset has. It ranges from 0 to 4, where 0 represents "0" babies, 1 denotes "1" baby, 2 signifies "2" babies, 3 indicates "3" babies, and 4 refers to "4" babies. The value 5 is reserved for any unclassified or missing responses.
+-   "year": This variable indicates the year in which the data was collected from GSS. In this data-set, all the observations are from the year of 1972 to 2012.
+-   "sex": Categorical variable with two levels: male and female.
+-   "babies": Integer variable with different levels, depending on the number of babies, for instance : 0, 1, 2, 3, 4, or 5+. For analysis purposes we construct "babies_number". The babies_number variable is an ordinal variable denoting the number of babies an individual in the dataset has. It ranges from 0 to 4, where 0 represents "0" babies, 1 denotes "1" baby, 2 signifies "2" babies, 3 indicates "3" babies, and 4 refers to "4" babies. The value 5 is reserved for any unclassified or missing responses.
+-   "health": This variable indicates the self-reported health status of the individual at the time. It is a categorical variable with different levels, depending on the health status, for example : excellent, good, fair, or poor. We also use an analogous "health_score", which is an ordinal variable shows the self-reported health status of the individuals, which sign the ranges from 1 to 4. With 1 denoting "poor" health, 2 signifying "fair" health, 3 representing "good" health, and 4 referring to "excellent" health. The value 5 is reserved for any unclassified or missing responses.
+-   "finance_satisfied": This variable indicates the individual's different level of satisfaction with their current financial situation. It is a categorical variable with different satisfaction levels: very satisfied, more or less satisfied, not very satisfied, and not at all satisfied. We also develop the analogous "finance_score". This ordinal variable represents the financial satisfaction level of the individuals in the dataset. It ranges from 1 to 3, with 1 indicating "Not at all satisfied," 2 denoting "more or less satisfied," and 3 signifying "pretty well satisfied." The value 4 is reserved for any unclassified or missing responses.
+-   "happy": This variable indicates the individual's level of happiness or life satisfaction. It is a categorical variable with different levels of happiness: very happy, pretty happy, not too happy. We create an analogous happiness score ""happy_score". The happy_score variable is an integer that represents the individuals in the dataset's self-reported happiness levels. Its sign ranges from 0 to 3, with 0 denoting "not too happy," 1 denoting "happy," 2 denoting "very happy," and 3 holding any unclassified or missing responses.
 
 In this study, missing values (NA) have not been removed. The rationale behind this decision is that eliminating missing values from every column would lead to a significant reduction in the data set's size, compromising its representatives. Instead, R is employed to automatically filter out missing values, ensuring data integrity.
 
 ### Exploring the Connection Between Childlessness and Happiness
 
-In [@fig-one],which analysis explores the relationship between the number of children in a family and happiness levels, categorized as 'very happy,' 'pretty happy,' and 'not too happy.' Although childless families show the highest numbers in each happiness category, the data collected for such families is more abundant, necessitating an analysis of happiness proportions within each family size. The findings reveal no linear correlation between the number of children and overall family happiness, with happiness varying across family sizes without a consistent pattern. The non-uniform distribution of happiness categories among families with different numbers of children implies that factors beyond the number of children also contribute to happiness levels. In conclusion, the data shows variations in happiness levels among families of different sizes but does not establish a definitive correlation between the number of children and overall family happiness. Further research is needed to better understand the complex factors influencing happiness within families.
+@fig-one explores the relationship between the number of children in a family and happiness levels, categorized as 'very happy,' 'pretty happy,' and 'not too happy.' Although childless families show the highest numbers in each happiness category, the data collected for such families is more abundant, necessitating an analysis of happiness proportions within each family size. The findings reveal no linear correlation between the number of children and overall family happiness, with happiness varying across family sizes without a consistent pattern. The non-uniform distribution of happiness categories among families with different numbers of children implies that factors beyond the number of children also contribute to happiness levels. In conclusion, the data shows variations in happiness levels among families of different sizes but does not establish a definitive correlation between the number of children and overall family happiness. Further research is needed to better understand the complex factors influencing happiness within families.
 
 ```{r}
 #| label: fig-one
 #| fig-cap: Relationship between Number of Babies and Happiness
 #| echo: false
 #| warning: false
+
 data %>%
   group_by(babies, happy) %>%
   summarize(n = n()) %>%
@@ -116,11 +114,9 @@ data %>%
         legend.title = element_text(size = 12, face = "bold"),
         legend.text = element_text(size = 10),
         legend.position = "bottom")
-
-
 ```
 
-In [@fig-two], as presented in the bar chart, the gender distribution varies depending on the number of babies in the family. By comparison, a higher percentage of females than males is consistently observed across all groups. On the other hand, the lowest difference in sex distribution is found among families with no babies, where the female-to-male ratio is relatively closer. As the number of babies in a family increases, the percentage of females increases, with the highest difference observed in families with one to four babies. In these groups, the sex distribution is more skewed towards females.
+@fig-two illustrates how gender distribution varies depending on the number of babies in the family. By comparison, a higher percentage of females than males is consistently observed across all groups. On the other hand, the lowest difference in sex distribution is found among families with no babies, where the female-to-male ratio is relatively closer. As the number of babies in a family increases, the percentage of females increases, with the highest difference observed in families with one to four babies. In these groups, the sex distribution is more skewed towards females.
 
 ```{r}
 #| label: fig-two
@@ -144,10 +140,9 @@ data %>%
         legend.title = element_text(size = 12, face = "bold"),
         legend.text = element_text(size = 10),
         legend.position = "bottom")
-
 ```
 
-In [@fig-three],which shows analysis and visualization of the number of children born each year between 1972 and 2012 in connection to the degree of happiness to offer a more in-depth and complete perspective of the data. In 1974, 1985, 1993, 2004, 2006, and 2008, a relatively high percentage of people reported feeling unpleasant concerning the variable "not too happy." On the other hand, the proportion of people reporting being cheerful in 1973, 1977, 1994, 2006, and 2012 was relatively high. The data shows that excellent, fair, and sound are the most prevalent self-rated health statuses among adults with one or two children. It cannot be claimed that the number of children will impact the health scores, even though participation rates in families with one kid are generally high, even as time goes on.
+@fig-three shows analysis and visualization of the number of children born each year between 1972 and 2012 in connection to the degree of happiness to offer a more in-depth and complete perspective of the data. In 1974, 1985, 1993, 2004, 2006, and 2008, a relatively high percentage of people reported feeling unpleasant concerning the variable "not too happy." On the other hand, the proportion of people reporting being cheerful in 1973, 1977, 1994, 2006, and 2012 was relatively high. The data shows that excellent, fair, and sound are the most prevalent self-rated health statuses among adults with one or two children. It cannot be claimed that the number of children will impact the health scores, even though participation rates in families with one kid are generally high, even as time goes on.
 
 
 ```{r fig.width= 9,fig.height= 6}
@@ -158,20 +153,18 @@ In [@fig-three],which shows analysis and visualization of the number of children
 
 ggplot(data[data$happy == "very happy", ], aes(x = year, fill = factor(babies))) +
   geom_bar(position = "fill") +
-  facet_wrap(~health, ncol = 5, scales = "free_y") +
+  facet_wrap(~health, nrow = 5, scales = "free_y") +
   labs(x = "Year", y = "Percentage of Babies", fill = "Number of Babies") +
   theme_bw() +
   scale_y_continuous(labels = scales::percent_format(), expand = c(0.05, 0)) +
   theme(panel.grid.major.x = element_line(color = "grey", size = 0.1),
         strip.text = element_text(size = 10),
         panel.spacing = unit(0.2, "lines"))
-
-
 ```
 
 ### The Relationship Between Number of Children and Self-Rated Health Status
 
-In [@fig-four].When individuals have one child, more participants rate their health as 'good' and 'excellent' compared to other self-health rating categories. By contrast, for the individuals who do not have children, the proportion of those who rate their health as "poor" is the highest; however, no clear conclusion can be drawn from this finding. For individuals with three children, the feedback on their health status is evenly distributed among "good," "fair," and "excellent," with a tiny proportion of participants reporting "poor" health. Overall, having one child is associated with most participants reporting an excellent health status.
+@fig-four shows that when individuals have one child, more participants rate their health as 'good' and 'excellent' compared to other self-health rating categories. By contrast, for the individuals who do not have children, the proportion of those who rate their health as "poor" is the highest; however, no clear conclusion can be drawn from this finding. For individuals with three children, the feedback on their health status is evenly distributed among "good," "fair," and "excellent," with a tiny proportion of participants reporting "poor" health. Overall, having one child is associated with most participants reporting an excellent health status.
 
 ```{r}
 #| label: fig-four
@@ -187,7 +180,7 @@ ggplot(data, aes(x = health, fill = factor(babies))) +
   coord_flip()
 ```
 
-In [@fig-five]. The association between health and the number of babies in the family is investigated via a dot plot.  The information is divided into five categories depending on the number of babies, which from 0 to 4, and four categories based on health, including "excellent," "fair," "good," and "poor." from the year of 1970 to the 2010. The graph shows a trend that may point to a link between a family's health condition and the number of children they have. By comparison; with more kids are born to families with "excellent" health than to those with 'poor' health, with resulting in a more balanced distribution of births. As the result; this pattern suggests that having one or more children is more likely when one is in better health self-rate. The percentages for all four health categories tend to decline as the number of newborns rises. This trend is most apparent in the "poor" health category, where the percentage drop is more dramatic as the number of births rises. The information points to a connection between family size and health. The chance of having one or more children is often more significant when one is in better health than when one is in worse health. But it's important to remember that the link could not be direct and that other variables might also affect how many children a family has.
+@fig-five illustrates the association between health and the number of babies in the family is investigated via a dot plot. The information is divided into five categories depending on the number of babies, which from 0 to 4, and four categories based on health, including "excellent," "fair," "good," and "poor." from the year of 1970 to the 2010. The graph shows a trend that may point to a link between a family's health condition and the number of children they have. By comparison; with more kids are born to families with "excellent" health than to those with 'poor' health, with resulting in a more balanced distribution of births. As the result; this pattern suggests that having one or more children is more likely when one is in better health self-rate. The percentages for all four health categories tend to decline as the number of newborns rises. This trend is most apparent in the "poor" health category, where the percentage drop is more dramatic as the number of births rises. The information points to a connection between family size and health. The chance of having one or more children is often more significant when one is in better health than when one is in worse health. But it's important to remember that the link could not be direct and that other variables might also affect how many children a family has.
 
 ```{r}
 #| label: fig-five
@@ -196,7 +189,7 @@ In [@fig-five]. The association between health and the number of babies in the f
 #| warning: false
 
 ggplot(data[data$happy == "very happy", ], aes(x = year, y = factor(babies))) +
-  geom_point(position = position_jitter(width = 0.2, height = 0.1), size = 2, color = "#4daf4a") +
+  geom_point(position = position_jitter(width = 0.2, height = 0.1), alpha = 0.3, size = 2, color = "#4daf4a") +
   facet_wrap(~health, ncol = 5, scales = "free_y") +
   labs(x = "Year", y = "Number of Babies") +
   theme_bw() +
@@ -204,20 +197,18 @@ ggplot(data[data$happy == "very happy", ], aes(x = year, y = factor(babies))) +
         panel.grid.major.x = element_line(color = "grey", size = 0.1),
         strip.text = element_text(size = 10),
         panel.spacing = unit(0.2, "lines"))
-
-
-
 ```
 
 ### The Association Between Family Size and Financial Satisfaction
 
-In [@fig-six]. The graph suggests the connection between the number of babies and self financial satisfaction rate. Regardless of the group, the less financially satisfied families having one or more children.On the other hand; most families in all financial satisfaction levels have 0 children, which is intriguing. In contrast to the more or less content and 'not satisfied at all' categories, the proportion of families with no children is much higher in the 'very well satisfied' group. As the number of babies grows, the percentages for all three types of financial satisfaction tend to decrease. This trend is evident in the "pretty well satisfied" category, where the percentage decrease is steeper as the number of babies increases. In conclusion, the results point to a relationship between family size and financial contentment. Families that are more financially satisfied tend to have fewer children, whereas those who are less financially satisfied tend to have more. Remember that this link could not be linear and that other variables might affect how many children a family has.
+@fig-six suggests the connection between the number of babies and self financial satisfaction rate. Regardless of the group, the less financially satisfied families having one or more children.On the other hand; most families in all financial satisfaction levels have 0 children, which is intriguing. In contrast to the more or less content and 'not satisfied at all' categories, the proportion of families with no children is much higher in the 'very well satisfied' group. As the number of babies grows, the percentages for all three types of financial satisfaction tend to decrease. This trend is evident in the "pretty well satisfied" category, where the percentage decrease is steeper as the number of babies increases. In conclusion, the results point to a relationship between family size and financial contentment. Families that are more financially satisfied tend to have fewer children, whereas those who are less financially satisfied tend to have more. Remember that this link could not be linear and that other variables might affect how many children a family has.
 
 ```{r}
 #| label: fig-six
 #| fig-cap: Relationship between Happiness and finance satified
 #| echo: false
 #| warning: false
+
 ggplot(data, aes(x = finance_satified, fill = factor(babies))) +
   geom_bar(position = "fill") +
   scale_y_continuous(labels = scales::percent) +
@@ -226,15 +217,18 @@ ggplot(data, aes(x = finance_satified, fill = factor(babies))) +
        fill = "Number of Babies") +
   theme_minimal() +
   coord_flip()
-
 ```
 
-# Model : Linear Regression
+# Model
+
+We use linear regression to estimate the following equation:
 
 $$
 \hat{Y}=\hat{\beta_0} + \hat{\beta_1}X_{finance-score} + \hat{\beta_2}X_{health-score} + \hat{\beta_3}X_{happy} + 
 \hat{\beta_6}X_{babies-number} 
 $$ {#eq-model}
+
+
 
 ```{r}
 #| message: false
@@ -269,21 +263,22 @@ The given multiple linear regression analysis aimed to predict an unspecified de
 
 # Results
 
-In conclusion, the data analysis presented in [@fig-one] to [@fig-six] reveals several key findings related to the number of children in a family and its association with happiness, health, and financial satisfaction. Overall, the families without children reported that the highest happiness levels, however; the larger sample size of childless families could influence this result. The data on gender distribution shows that there are more women in families with more children compared with male. The most significant differences between families with one child and those with four children can be seen.
+In conclusion, the data analysis presented in @fig-one to @fig-six reveals several key findings related to the number of children in a family and its association with happiness, health, and financial satisfaction. Overall, the families without children reported that the highest happiness levels, however; the larger sample size of childless families could influence this result. The data on gender distribution shows that there are more women in families with more children compared with male. The most significant differences between families with one child and those with four children can be seen.
 
 On the perspective of analyzing of health status. For having one child is linked to most people saying they are in "excellent" health self-rate. Moreover; the relationship between health and the number of children suggests with better health is generally associated with a higher likelihood of having one or more children; conversely, "poor" health correlates with a lower likelihood. Financial satisfaction is also related to the number of children in a family, with families with higher financial satisfaction generally having fewer children, while at the same time, those with lower financial satisfaction have more children. This relationship may not be linear, and other factors could influence the number of children in a family.
 
 In the limitations of this analysis, such as the possibility that different aspect of confounding factors could have an effect and that the relationships between variables might not be linear. In addition, the GSS data may not be representative of all families or cultures, so the results should be taken with care. On the other hand; in this study provided the essential information on about how family size affects things like happiness, health, and financial satisfaction. On the other hand; in the Future research , which could explore these relationships in greater depth, by considering additional variables, longitudinal data, and diverse populations to understand better the factors influencing family size and well-being.
 
-## Table of Relationship between Number of Children and Gender.
+## Relationship between the number of children and their gender.
 
-In the @tbl-sex, which presented in the table indicate that the sex distribution varies depending on the number of babies in the family.Across all groups, there is a consistent pattern of a higher percentage of females compared to males. The lowest difference in sex distribution is observed among families with no babies, where the female-to-male ratio is relatively closer 54.53% female vs. 45.47% male. As the number of babies in a family increases, the percentage of females also increases, with the highest difference observed in families with 1 and 4 babies. In these groups, the sex distribution is more skewed towards females, with 60.92% and 60.98% female representation, respectively.
+@tbl-sex indicates that the sex distribution varies depending on the number of babies in the family. Across all groups, there is a consistent pattern of a higher percentage of females compared to males. The lowest difference in sex distribution is observed among families with no babies, where the female-to-male ratio is relatively closer 54.53% female vs. 45.47% male. As the number of babies in a family increases, the percentage of females also increases, with the highest difference observed in families with 1 and 4 babies. In these groups, the sex distribution is more skewed towards females, with 60.92% and 60.98% female representation, respectively.
 
 ```{r}
 #| label: tbl-sex
 #| tbl-cap: Relationship between Number of Children and Gender
 #| echo: false
 #| warning: false
+
 sex_table <- data %>% 
   group_by(babies, sex) %>% 
   summarize(response = n(), variance = var(as.numeric(sex))) %>%
@@ -293,12 +288,11 @@ sex_table <- data %>%
 
 kable(sex_table  ) %>%
   kable_styling(bootstrap_options = c("striped", "hover"), full_width = FALSE)
-
 ```
 
-## Distribution of Happiness Levels Across Families with Different Numbers of Babies
+## Happiness between families with different numbers of babies
 
-In the @tbl-happ, which suggests that families with 4 babies have the highest proportion of "happy" individuals at 63.41%. In contrast, families with 3 babies have the highest proportion of "not too happy" individuals at 16.57% and the lowest proportion of "happy" individuals at 50.30%. Families with 0, 1, and 2 babies have relatively similar distributions of happiness levels. It is worth noting that families with 3 babies have the highest proportion of "very happy" individuals at 33.14%, followed closely by families with 2 babies at 32.95%. Families with 4 babies have the lowest proportion of "very happy" individuals at 24.39%.
+@tbl-happ suggests that families with 4 babies have the highest proportion of "happy" individuals at 63%. In contrast, families with 3 babies have the highest proportion of "not too happy" individuals at 16% and the lowest proportion of "happy" individuals at 50%. Families with 0, 1, and 2 babies have relatively similar distributions of happiness levels. It is worth noting that families with 3 babies have the highest proportion of "very happy" individuals at 33%, followed closely by families with 2 babies at 32%. Families with 4 babies have the lowest proportion of "very happy" individuals at 24%.
 
 ```{r}
 #| label: tbl-happ
@@ -306,6 +300,7 @@ In the @tbl-happ, which suggests that families with 4 babies have the highest pr
 #| message: false
 #| echo: false
 #| warning: false    
+
 happy_table <- data %>% 
   group_by(babies, happy) %>% 
   summarize(response = n(), variance = var(as.numeric(happy))) %>%
@@ -315,12 +310,11 @@ happy_table <- data %>%
 
 kable(happy_table) %>%
   kable_styling(bootstrap_options = c("striped", "hover"), full_width = FALSE)
-
 ```
 
-## Distribution of Self-Rated Health Status Across Families with Different Numbers of Babies
+## Self-rated health and the number of babies
 
-In @tbl-heal, which appears suggests that individuals without any babies tend to have higher percentages in all health categories, especially in the "poor" health category (93.52%). As the number of babies in a family increases, the proportion of individuals in the "excellent," "fair," and "good" health categories generally decreases. The "poor" health category also follows this trend, but the decrease is less pronounced. Individuals with 1 or 2 babies have relatively similar health status distributions, with slightly higher percentages in the "excellent" and "good" health categories compared to the "fair" and "poor" health categories. Individuals with 3 or 4 babies have the lowest percentages across all health categories.
+In @tbl-heal, which appears suggests that individuals without any babies tend to have higher percentages in all health categories, especially in the "poor" health category (93%). As the number of babies in a family increases, the proportion of individuals in the "excellent," "fair," and "good" health categories generally decreases. The "poor" health category also follows this trend, but the decrease is less pronounced. Individuals with 1 or 2 babies have relatively similar health status distributions, with slightly higher percentages in the "excellent" and "good" health categories compared to the "fair" and "poor" health categories. Individuals with 3 or 4 babies have the lowest percentages across all health categories.
 
 ```{r}
 #| label: tbl-heal
@@ -328,6 +322,7 @@ In @tbl-heal, which appears suggests that individuals without any babies tend to
 #| message: false
 #| echo: false
 #| warning: false    
+
 health_happy_table <- data %>%
   group_by(health, babies) %>%
   summarize(response = n(), variance = var(as.numeric(babies))) %>%
@@ -337,12 +332,11 @@ health_happy_table <- data %>%
 
 kable(health_happy_table) %>%
   kable_styling(bootstrap_options = c("striped", "hover"), full_width = FALSE)
-
 ```
 
 ## Distribution of Financial Satisfaction Across Families with Different Numbers of Babies
 
-In @tbl-fin, which appears suggests that families with 0 babies have the highest percentages of financial satisfaction across all categories. As the number of babies in a family increases, the proportion of families in each financial satisfaction category generally decreases. Families with 4 babies have the lowest percentages in all financial satisfaction categories.Notably, the "pretty well satisfied" category shows the steepest decline in percentages as the number of babies increases.Families with 0 babies in this category have the highest percentage of financial satisfaction at 85.47%, while families with 4 babies have the lowest percentage at 0.05%.
+@tbl-fin suggests that families with 0 babies have the highest percentages of financial satisfaction across all categories. As the number of babies in a family increases, the proportion of families in each financial satisfaction category generally decreases. Families with 4 babies have the lowest percentages in all financial satisfaction categories.Notably, the "pretty well satisfied" category shows the steepest decline in percentages as the number of babies increases.Families with 0 babies in this category have the highest percentage of financial satisfaction at 85.47%, while families with 4 babies have the lowest percentage at 0.05%.
 
 ```{r}
 #| label: tbl-fin
@@ -386,30 +380,30 @@ Understanding the historical context is also essential in developing interventio
 
 ## Relationship between Family Size, Happiness, Health, and Gender Distribution
 
-The analysis of the GSS data showed in [@fig-one] and [@fig-five], which suggested the relationship between the number of children in a family and the level of the happiness and health status of individuals. In compare; the families with no children seem to have the highest proportion of 'very happy', 'pretty happy' responses rate. Although this could be influenced by the larger amount of data collected for childless individuals. On the other hand, the families with 'excellent' health tend to have a more balanced distribution of children, with a higher likelihood of having one or more children compared to families with poorer health.
+The analysis of the GSS data showed in @fig-one and @fig-five, which suggested the relationship between the number of children in a family and the level of the happiness and health status of individuals. In compare; the families with no children seem to have the highest proportion of 'very happy', 'pretty happy' responses rate. Although this could be influenced by the larger amount of data collected for childless individuals. On the other hand, the families with 'excellent' health tend to have a more balanced distribution of children, with a higher likelihood of having one or more children compared to families with poorer health.
 
-In addition, the relationship between family size and happiness, as well as family size and health. The data analysis in [@fig-two] also indicated the relationship between family size and gender distribution. This paper suggested that the sex distribution varies depending on the number of babies in the family, with a higher percentage of females than males observed across all groups. As the number of babies in a family increases, at the same time, the percentage of females also increases, with the highest difference observed in families with one and four babies. By comparison, in these groups, the gender distribution is more skewed towards females. This finding suggested that the presence and number of babies in a family may also influence the gender composition of the family.
+In addition, the relationship between family size and happiness, as well as family size and health. The data analysis in @fig-two also indicated the relationship between family size and gender distribution. This paper suggested that the sex distribution varies depending on the number of babies in the family, with a higher percentage of females than males observed across all groups. As the number of babies in a family increases, at the same time, the percentage of females also increases, with the highest difference observed in families with one and four babies. By comparison, in these groups, the gender distribution is more skewed towards females. This finding suggested that the presence and number of babies in a family may also influence the gender composition of the family.
 
-On the other hand, the data from [@fig-three] and [@fig-four] supports the relationship between family size, happiness, and health. The analysis of the number of children each year from 1972 to 2012 about the level of happiness shows the proportion of individuals who reported feeling "not too happy" and "happy" over the years. This finding highlights the potential influence of horticultural and economic factors on happiness and family size over time.
+On the other hand, the data from @fig-three and @fig-four supports the relationship between family size, happiness, and health. The analysis of the number of children each year from 1972 to 2012 about the level of happiness shows the proportion of individuals who reported feeling "not too happy" and "happy" over the years. This finding highlights the potential influence of horticultural and economic factors on happiness and family size over time.
 
-Additionally, the data from [@fig-four] shows that families with one child are associated with the highest proportion of participants reporting 'excellent' health status. This finding might suggest that having a smaller family size could be related to better health outcomes for individuals. However, it is crucial to consider other factors that could influence the health status of individuals, such as access to healthcare, lifestyle choices, and overall well-being.
+Additionally, the data from @fig-four shows that families with one child are associated with the highest proportion of participants reporting 'excellent' health status. This finding might suggest that having a smaller family size could be related to better health outcomes for individuals. However, it is crucial to consider other factors that could influence the health status of individuals, such as access to healthcare, lifestyle choices, and overall well-being.
 
 In summary, the relationship between family size and happiness, health, and gender distribution is complex. While the data suggested certain trends and relation. Therefore;it is important to notice that other factors may also play a key role in determining happiness, health, and gender distribution in families with varying numbers of children. In the further research and analysis are needed to better understand these relationships and to identify potential contributing factors.
 
 ## Impact of Family Size on Financial Satisfaction
 
-The data from [@fig-six] shows the connection between level rate of financial satisfaction and the number of children in a family. In general, the families with higher financial satisfaction tend to have fewer children, while those with lower financial satisfaction have more children. This trend is observed across all three financial satisfaction levels, with the majority of families in all financial satisfaction levels having 0 babies. As the number of children increases, the percentages for all three financial satisfaction categories tend to decrease, suggesting that family size may play a role in financial satisfaction. However, it is important to note that this relationship may not be linear and that other factors could also influence the number of children in a family and their financial satisfaction.
+The data from @fig-six shows the connection between level rate of financial satisfaction and the number of children in a family. In general, the families with higher financial satisfaction tend to have fewer children, while those with lower financial satisfaction have more children. This trend is observed across all three financial satisfaction levels, with the majority of families in all financial satisfaction levels having 0 babies. As the number of children increases, the percentages for all three financial satisfaction categories tend to decrease, suggesting that family size may play a role in financial satisfaction. However, it is important to note that this relationship may not be linear and that other factors could also influence the number of children in a family and their financial satisfaction.
 
 # Weaknesses and next steps
 
-## Weakness:
+## Weakness
 
 -   Sample representation: The GSS data utilized in this analysis might not accurately represent all family structures or cultural environments, potentially restricting the applicability of the findings and outcomes. Future research with more varied samples is essential to confirm the relevance of the results across distinct populations.
 -   Confounding factors: This analysis may not consider possible confounding variables that could affect the connections between child count, happiness, health, and financial satisfaction. Aspects such as age, education, income, and cultural background might contribute to the observed trends and warrant investigation in subsequent studies.
 -   Cross-sectional data: The employed data in this analysis is cross-sectional, posing difficulties in determining causality between factors. Utilizing longitudinal data would facilitate a more comprehensive comprehension of how these variables evolve over time and any potential causal links.
 -   Non-linear relationships: The relationships between the variables in this study may not be linear,in addition; in other forms of relationships could exist. This analysis could be extended by exploring different types of relationships between variables, such as quadratic or cubic functions.
 
-## Next Steps:
+## Next Steps
 
 -   Diversify the sample: Undertake further studies using more varied samples, encompassing participants from distinct cultural backgrounds, age brackets, and socioeconomic statuses. This will enhance the comprehension of the relationships between child count, happiness, health, and financial satisfaction across diverse populations.
 -   Consider potential confounding factors: Subsequent research should address potential confounding variables influencing the relationships between factors. By adjusting for these elements, the analysis can offer a clearer insight into the genuine associations between child count and happiness, health, and financial satisfaction.
@@ -431,7 +425,7 @@ Welcome to this survey on gender differences and equality in education, employme
 
 Contact Information: If you have any questions or concerns about this survey, please feel free to contact the research team:
 
-NAME : SHAOHAN CHANG Institution/Department : Department of statistics (University of Toronto) Email Address : shaohan.chang\@utoronto.ca
+NAME : SHAOHAN CHANG Institution/Department : Department of Statistical Sciences (University of Toronto) Email Address : shaohan.chang\@utoronto.ca
 
 ### 1. How many children do you currently have?
 

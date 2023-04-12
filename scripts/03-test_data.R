@@ -14,45 +14,34 @@
 
 #### Work space setup ####
 library(tidyverse)
-library(janitor)
-library(dplyr)
-
 
 #### Test data ####
-
-
 data <- 
-  readr::read_csv("inputs/data/cleaned_data.csv")
+  read_csv("inputs/data/cleaned_data.csv")
 
 # Test One : Check for NA values in the data frame.
 # Explanation : as the result , there 0 NA value. 
-
 check_result <- ifelse(sum(is.na(data)) == 0, "Check passed", "Check failed")
 print(check_result)
 
 
 # Test Two : Check for NA values in happy. 
-
 # Explanation :  Three are 0 missing values in the happy. 
-
 check_result <- ifelse(sum(is.na(data$happy)) == 0, "Check passed", "Check failed")
 print(check_result)
 
 
 # Test Three : Check for NA values in year.
 # Explanation :There are 0 missing values in the year variable. 
-
 check_result <- ifelse(sum(is.na(data$year)) == 0, "Check passed", "Check failed")
 print(check_result)
 
 # Test Four : Check for NA values in sex. 
 # Explanation :There are 0 missing values in the sex variable.
-
 check_result <- ifelse(sum(is.na(data$sex)) == 0, "Check passed", "Check failed")
 print(check_result)
 
 # Test Five : Check for NA values in health. 
 # Explanation :There are 0 missing values in the health variable.
-
 check_result <- ifelse(sum(is.na(data$degree)) == 0, "Check passed", "Check failed")
 print(check_result)

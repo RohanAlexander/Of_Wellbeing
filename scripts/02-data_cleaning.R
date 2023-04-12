@@ -1,19 +1,19 @@
 #### Preamble ####
-# Purpose: The purpose of the final line write_csv(data, "inputs/data/cleaned_data.csv") is to save the 
-#cleaned and transformed data into a CSV file named "cleaned_data.csv" in the directory "inputs/data". 
-#This line is saving the cleaned data as a CSV file so that it can be easily loaded and used in future 
+# Purpose: The purpose of the final line write_csv(data, "inputs/data/cleaned_data.csv") is to save the
+#cleaned and transformed data into a CSV file named "cleaned_data.csv" in the directory "inputs/data".
+#This line is saving the cleaned data as a CSV file so that it can be easily loaded and used in future
 #analysis or modeling.This is a good practice because it ensures that the cleaned data can be easily accessed
-#and used later on without having to repeat the cleaning and transformation process every time. It also allows 
+#and used later on without having to repeat the cleaning and transformation process every time. It also allows
 #for easier sharing of the cleaned data with others who may need to use it.
-# Author: SHAOHAN CHANG  
-# Date: 14 March 2023 
-# Contact: SHAOHAN.CHANG@utoronto.ca 
+# Author: SHAOHAN CHANG
+# Date: 14 March 2023
+# Contact: SHAOHAN.CHANG@utoronto.ca
 # License: MIT
 # Pre-requisites:
 ## 1. Go to the GSS website by entering https://gss.norc.org/get-the-data/stata into your web browser.
 ## 2.Scroll down the page until you find the "Stata Data" section, and then click on the "Download the GSS Stata data files" link.
 ## 3. Select the years of interest from the list provided, and if you need to download multiple years, hold down the "Ctrl" key while clicking to select each year.
-## 4. Click the "Download Selected Files" button located at the bottom of the page. 
+## 4. Click the "Download Selected Files" button located at the bottom of the page.
 ## 5. On the next page, select the "Stata" file format.
 ## 6. To download all variables, choose "ALL" from the drop-down menu next to the green "ALL" button.
 ## 7. Click the "Create File" button and wait for the file to be generated. This may take a few moments, depending on the size of the file and your internet connection.
@@ -29,24 +29,21 @@
 #### Work space setup ####
 library(tidyverse)
 library(janitor)
-library(tidyverse)
 
 #### Clean data ####
 the_raw_data <- read_csv("inputs/data/raw_data.csv")
 
-data <- 
+data <-
   the_raw_data |>
-  select(
-    year,
-    sex,
-    babies,
-    health, 
-    satfin,
-    happy,
-  )
+  select(year,
+         sex,
+         babies,
+         health,
+         satfin,
+         happy,)
 
-data <- 
-  labelled :: to_factor(data)
+data <-
+  labelled::to_factor(data)
 
 data <- data %>%
   clean_names() %>%
@@ -61,44 +58,62 @@ data <- data %>%
 
 
 data <- data %>%
-  mutate(babies = case_when(
-    babies == '0 household members under 6' ~ '0',
-    babies == '1' ~ '1',
-    babies == '2' ~ '2',
-    babies == '3' ~ '3',
-    babies == '4' ~ '4',
-  ))
+  mutate(
+    babies = case_when(
+      babies == '0 household members under 6' ~ '0',
+      babies == '1' ~ '1',
+      babies == '2' ~ '2',
+      babies == '3' ~ '3',
+      babies == '4' ~ '4',
+    )
+  )
 
 
 data <- data %>%
-  mutate(happy = case_when(
-    happy == 'not too happy' ~ 'not too happy',
-    happy == 'pretty happy' ~ 'happy',
-    happy == 'very happy' ~ 'very happy',
-  ))
+  mutate(
+    happy = case_when(
+      happy == 'not too happy' ~ 'not too happy',
+      happy == 'pretty happy' ~ 'happy',
+      happy == 'very happy' ~ 'very happy',
+    )
+  )
 
 
 
-data$happy_score <- ifelse(data$happy == "not too happy", 0,
+data$happy_score <- ifelse(data$happy == "not too happy",
+                           0,
                            ifelse(data$happy == "happy", 1,
-                                  ifelse(data$happy == "very happy", 3,4)))
+                                  ifelse(data$happy == "very happy", 3, 4)))
 
 # Create ordinal variable for health score
-data$health_score <- ifelse(data$health == "poor", 1,
-                            ifelse(data$health == "fair", 2,
-                                   ifelse(data$health == "good", 3,
-                                          ifelse(data$health == "excellent", 4, 5))))
+data$health_score <- ifelse(data$health == "poor",
+                            1,
+                            ifelse(
+                              data$health == "fair",
+                              2,
+                              ifelse(data$health == "good", 3,
+                                     ifelse(data$health == "excellent", 4, 5))
+                            ))
 
 # Create ordinal variable for finance score
-data$finance_score <- ifelse(data$finance_satified == "Not at all satisfied", 1,
-                             ifelse(data$finance_satified == "more or less satisfied", 2,
-                                    ifelse(data$finance_satified == "pretty well satisfied", 3, 4 )))
+data$finance_score <-
+  ifelse(
+    data$finance_satified == "Not at all satisfied",
+    1,
+    ifelse(
+      data$finance_satified == "more or less satisfied",
+      2,
+      ifelse(data$finance_satified == "pretty well satisfied", 3, 4)
+    )
+  )
 
 data$babies_number <- ifelse(data$babies == "0", 0,
                              ifelse(data$babies == "1", 1,
-                                    ifelse(data$babies == "2", 2,
-                                           ifelse(data$babies == "3", 3,
-                                                  ifelse(data$babies == "4", 4, 5)))))
+                                    ifelse(
+                                      data$babies == "2", 2,
+                                      ifelse(data$babies == "3", 3,
+                                             ifelse(data$babies == "4", 4, 5))
+                                    )))
 
 
 
@@ -111,4 +126,3 @@ data <- na.omit(data)
 #### Save data ####
 write_csv(data, "inputs/data/cleaned_data.csv")
 
- 
